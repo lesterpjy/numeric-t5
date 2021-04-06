@@ -1,0 +1,375 @@
+,query_id,prediction,answer,validated_answers,f1,exact_match
+0,8b7f7ee7-a1cf-4656-bb92-fcc74acdae82,"1, 5 and 10 Pesos",100 Peso note<ss>500 Pesos note,500 Pesos note<sv>100<ss>500<sv>500 Pesos note,0.0,0.0
+1,317027fa-76bd-43b9-9184-76c32d8db236,Tom Brady <ss> T. J. Houshmandzadeh,Brady<ss>Palmer,Tom Brady<ss>Carson Palmer<sv>Tom Brady<ss>Carson Palmer,0.5,0.0
+2,1ffa94c5-05b2-4e78-9a98-a0ac56fbc5cc,irish <ss> english <ss> irish,english<ss>irish,english<ss>irish<sv>english<ss>irish,0.67,0.0
+3,8630522f-4059-4127-bfc1-6ede5e94762b,Bears,Atlanta would regain the lead<ss>to lock up the victory,Atlanta<sv>Falcons,0.0,0.0
+4,4e21cd75-b5ab-41c2-aa80-1ae95d78f4a3,ancient rifles <ss> Winchester rifles <ss> Mauser Pocket Pistols <ss> pistols <ss> s,ancient rifles<ss>Winchester rifles<ss>Mauser Pocket Pistols<ss>semi-automatic pistols<ss>daggers<ss>swords,400 ancient rifles<ss>a few Winchester rifles<ss>Mauser Pocket Pistols<ss>score of semi-automatic pistols<ss>daggers<ss>swords<sv>ancient rifles<ss>few Winchester rifles<ss>Mauser Pocket Pistols<ss>semi-automatic pistols<ss>daggers<ss>swords,0.58,0.0
+5,932e739a-9a6a-4cd5-837c-92f0d1ad6ba0,Ogaden area,Ethiopia grew weaker<ss>overthrown by the Derg,Somalia<sv>Somalia<sv>Ethiopia,0.0,0.0
+6,fd3c295a-46e7-4603-9a6d-4b29e40a1f6f,Buffalo,Bills went home<ss>Buffalo,home<sv>home,0.5,0.0
+7,8c8c2451-e0bd-4708-b662-d3de4204bafb,Alexander Vasilievich,Alexander<ss>Fyodor,Alexander and his son Fyodor<sv>Alexander and his son Fyodor,0.33,0.0
+8,463663ae-90b1-4ef3-ad30-9e760fcaacac,Joe Mixon <ss> Jalen Ramsey,Blake Bortles<ss>Marqise Lee,Blake Bortles<ss>Marqise Lee<sv>Blake Bortles<ss>Marqise Lee,0.0,0.0
+9,af015bdc-2f04-4dd0-97d8-97e40f91b2c6,Xara's Flare <ss> Sharp's Extended Vector Animation formats,Xara<ss>Sharp,Xara's Flare and Sharp's,0.33,0.0
+10,968990b2-1b7c-49f0-a691-a994a155769c,to create a freely available developers' kit,create a freely available<ss>developers' kit,developers' kit,0.5,0.0
+11,25ed59a4-e726-47c5-bdb7-862e8baf1bae,the Uqair conference,Uqair conference in 1922<ss>from 1923,trade blockade<sv>trade blockade,0.0,0.0
+12,746848f6-348d-487f-91a4-addda0d4b0bb,Kuwait-Najd War <ss> Kuwait-Najd War,Kuwait-Najd War<ss>World War I<ss>Uqair conference,The Kuwait-Najd War<ss>World War I<sv>World War I<ss>Kuwait-Najd War,0.67,0.0
+13,06a02c14-6527-493d-8828-7922d14d281a,under the age of 18 <ss> 18 to 24 <ss> 45 to 64,45 to 64<ss>under the age of 18,"21.8% under the age of 18, 13.1% from 18 to 24,<sv>45 to 64<ss>under the age of 18",0.67,0.0
+14,44a430a0-b710-4e85-a3c2-6ea8e6f03a4d,under the age of 18 <ss> 18 to 24 <ss> 25 to 44 <ss> 45 to 64,under the age of 18<ss>25 to 44<ss>45 to 64,"under the age of 18<ss>25 to 44<ss>45 to 64<sv>21.8% under the age of 18, 13.1% from 18 to 24, 31.7% from 25 to 44, 20.1% from 45 to 64,",0.75,0.0
+15,bb31c713-e000-4322-bed1-df41431314c9,under the age of 18 <ss> 18 to 24 <ss> 25 to 44 <ss> 45 to 64,under the age of 18<ss>25 to 44<ss>45 to 64,under the age of 18<ss>25 to 44<ss>45 to 64<sv>under the age of 18<ss>25 to 44<ss>45 to 64,0.75,0.0
+16,a095adb4-c11d-4a27-bd45-c45a3588de98,Native American <ss> Pacific Islander <ss> Asian <ss> Native American <ss> Pacific Islander,Native American<ss>Pacific Islander,Pacific Islander<ss>Asian<sv>Italian<ss>danish,0.4,0.0
+17,db314f06-4dc0-4cbd-a1d7-db195c51977c,United States <ss> Italian,danish<ss>Italian,danish<ss>Italian<sv>danish<ss>Italian,0.5,0.0
+18,82c5fa37-c885-4ded-8ba4-08212c028fde,Albanians <ss> Roma <ss> Serbs <ss> Turks <ss> Bosniaks <ss> Vlachs,Romani<ss>Turks<ss>Jews<ss>Serbs,Romani<ss>Turks<ss>Jews<ss>Serbs<sv>Albanians<ss>Roma people<ss>Serbs<ss>Turks<ss>Bosniaks<ss>Vlachs,0.94,0.0
+19,a0d6b6e2-edbe-47e9-a8bf-41d434edd643,Italian <ss> Guyanese,Guyanese<ss>Irish,"Guyanese<ss>Irish<sv>Guyanese, Irish",0.5,0.0
+20,ee68cc80-e09a-4177-a3dc-5da3f116cc02,Italian <ss> Guyanese,English<ss>German,German<ss>English<ss>Polish<ss>French,0.0,0.0
+21,c32a9237-0bec-4929-a36b-35be825970ab,White,African American<ss>English<ss>Polish<ss>French<ss>Puerto Rican,African American<sv>African American,0.0,0.0
+22,b8c3ef46-22c0-4e80-beee-03e9dc27274a,Pacific Islander <ss> English,Polish<ss>French,Polish<ss>French<sv>Polish<ss>French,0.0,0.0
+23,ed881ec8-1232-4fee-9b6a-29ac20cf8a43,Italian <ss> Guyanese,Italian<ss>Guyanese<ss>Irish<ss>Puerto Rican,Italian<ss>Guyanese<ss>Irish<sv>Italian<ss>Guyanese<ss>Irish<ss>Puerto Rican,0.67,0.0
+24,4519b9fa-011e-4f81-abe4-4711f7929b26,siege and all economic restrictions,suffered a great deal<ss>because of lack of trade.,Gdansk merchants suffering<sv>Gdansk merchants suffering<sv>Gdansk merchants<sv>Gdansk merchants suffering<sv>blockade,0.0,0.0
+25,06e63726-a5b8-4a0c-971e-40067d4fe0ef,on 26 November 1585 <ss> Danzig became the most privileged city <ss> in the Commonwealth,"promised to pay the large<ss>sum of 200,000 złotys<ss>and an additional 20,000 repatriation","Poland promising to pay<sv>Poland promising to pay<sv>220,000 zlotys<sv>ruler of Poland",0.0,0.0
+26,a2f25486-e034-4532-b28e-e80ce8555c0f,The Qing,The third invasion<ss>penetrating deep into central Burma,The third invasion<sv>The third invasion<sv>third invasion<sv>third<sv>The third<sv>The third invasion,0.0,0.0
+27,706d1e15-617f-44f6-bb45-c6b659c607ea,battleship Espana running aground,Spanish military suffered losses even<ss>at sea; in March,the Spanish military suffering losses even at sea<sv>Spanish military suffering losses<sv>Spanish military suffering losses<sv>suffered losses even at sea,0.0,0.0
+28,df7d80d5-5c58-40f9-a462-3040c78f8fe3,"August 1921, Spain lost all <ss> territories it had gained <ss> since 1909.","By late August 1921,<ss>Spain lost all the territories<ss>it had gained since 1909.",Spain lost all the territories it had gained since 1909<sv>Spain loosing all territories<sv>Spain loosing all territories<sv>Spain lost all the territories,0.42,0.0
+29,1c7a6079-b713-4a9b-b818-7a9f5fca9e5a,White <ss> Asian,White<ss>African American,White<ss>African American<sv>White<ss>Hispanic<ss>Latino,0.5,0.0
+30,3322e208-39e5-4980-a219-70da8663629a,Native American <ss> Pacific Islander,Pacific Islander<ss>Asian,Pacific Islander<ss>Asian<sv>Asian<ss>Pacific Islander,0.5,0.0
+31,cfc6b601-783a-4bf4-8b89-bf201a156456,Native American <ss> Pacific Islander,Asian<ss>Pacific Islander,Asian<ss>Pacific Islander<sv>Asian<ss>Pacific Islander,0.5,0.0
+32,54f5a294-9eb9-4b9c-85da-4f2856059a78,the economic collapse of Russia <ss> power struggle of the Finnish state,economic collapse of Russia<ss>struggle of the Finnish state,economic collapse of Russia,0.94,0.0
+33,7bf3a580-09be-4a48-a6d1-9c8e17df9bbf,Denmark <ss> Lübeck,Denmark<ss>Sweden,Denmark and Lübeck<sv>Sweden<ss>Denmark<sv>Denmark<ss>Sweden,0.5,0.0
+34,18ddbddc-d9ce-473d-80fe-c61fd0c6fa03,Swedish navy,"1563, the fleet fired<ss>on the Swedish navy",Danish fleet<sv>Danish,0.4,0.0
+35,b1f8f71a-bf7f-4332-a0d2-dd57fb4aa7a7,Nakhchivan being captured,capture the city of Nakhchivan<ss>in June 1919,capture the city of Nakhchivan<sv>city of Nakhchivan being captured,0.75,0.0
+36,26c48624-0dec-4bf1-b4c9-e29d842415a9,Italian <ss> united states <ss> Italian <ss> Italian,French Canadian<ss>German<ss>Italian<ss>united states<ss>Italian<ss>English,French Canadian<ss>German<ss>Italian<ss>united states<sv>French Canadian<ss>German<ss>Italian<ss>united states<ss>Italian<ss>English,0.5,0.0
+37,69fd9e90-4fc6-4908-8c99-ac7ba902f577,Italian <ss> united states <ss> Italian <ss> Italian,German<ss>Italian<ss>united states<ss>Italian<ss>Italian,French Canadian<ss>German people<ss>Italian<sv>German<ss>Italian<ss>united states<ss>Italian<ss>Italian,0.8,0.0
+38,2ca4b84c-1253-4e85-8758-450a633de9b7,Mind Dynasty conquering Yunnan borderlands,"borderlands between 1380 and 1388,<ss>Shan States came in 1557",Ming dynasty,0.29,0.0
+39,d983e75f-fa60-4072-9b05-fde8771cb731,Ming dynasty first conquered Yunnan borderlands,"Ming dynasty first conquered<ss>unnan borderlands between 1380<ss>and 1388,",Ming dynasty first conquering Yunnan,0.73,0.0
+40,086ef7c9-0cc8-43f0-a41e-e71c46c343ec,Ming <ss> King Bayinnaung,The Ming dynasty<ss>Toungoo dynasty,Ming dynasty<ss>Toungoo dynasty<sv>Ming<ss>Toungoo,0.5,0.0
+41,2aa85a31-c18f-4b5e-a5de-a6ee4558a50b,the British government <ss> the Irish treaty delegates,epresentatives of the British government<ss>the Irish treaty delegates,Arthur Griffith<ss>Robert Barton<ss>Michael Collins<sv>Arthur Griffith<ss>Robert Barton<ss>Michael Collins,0.83,0.0
+42,32ece64c-b621-4475-9099-ab3b8d18acb0,intercepted a pass,Orlando Scandrick intercepted a pass<ss>and ended the game<ss>as a Cowboys victory,Cowboys victory<sv>Cowboys victory<sv>Cowboys victory,0.22,0.0
+43,9ce0c031-ead7-46e7-b5c9-4cbb5a090d19,Irish <ss> Americans,Irish American<ss>Americans ancestry<ss>households<ss>families,Irish American<sv>6.7% American,0.33,0.0
+44,8b3b94d8-dbdf-41a7-959e-6349e62db7ae,German American <ss> English American,German American<ss>English American<ss>Irish American,4<sv>German American<ss>English American<ss>Irish American,0.67,0.0
+45,9b2cfd65-8042-4085-9d3e-876428cb5158,Tamil <ss> Hindi,Tamil<ss>Marathi<ss>Hindi,3.45<sv>Tamil<ss>Marathi<ss>Hindi,0.67,0.0
+46,1b49e087-f1f0-46aa-b946-745ace013f96,Urdu <ss> Telugu <ss> Tamil <ss> Tulu,Urdu<ss>Kannada,10.83<sv>Urdu<ss>Kannada,0.25,0.0
+47,f9e3a54c-cea9-47d6-9c95-852a443017d4,first quarter,first quarter<ss>second<ss>fourth,first<sv>first,0.67,0.0
+48,fbddf60a-31e4-4850-be04-44c4871079a3,second <ss> third,second<ss>fourth,second quarter<ss>fourth quarter<sv>the second<ss>the fourth<sv>2<sv>second<ss>fourth<sv>2,0.5,0.0
+49,305e4fc0-2a6c-4104-9337-d78c43924db8,end the war <ss> have a social revolution <ss> support the Bolsheviks <ss> end the war,Peace<ss>Land<ss>Bread,to end the war<ss>have a social revolution,0.45,0.0
+50,02386f77-66ce-4d58-8286-4603e86bece9,"In 1949, the <ss> Second Hungarian Republic <ss> was established under Soviet influence. <ss> In 1946, the <ss> Second Hungarian Republic <ss> was established by Nazi Germany and Horthy was deposed.",the Second Hungarian Republic<ss>was established,Second Hungarian Republic was established<sv>occupied by Nazi Germany<sv>Second Hungarian Republic was established<sv>occupied by Nazi Germany<sv>Second Hungarian Republic was established,0.26,0.0
+51,f4b97a88-acb5-453f-aa82-b2b1fe1e9a00,Jaél de Peigne <ss> Jaél de Peigne,"Catherine<ss>Jaél de Peigne,",Jaél de Peigne<sv>Catherine<ss>Jaél de Peigne,0.5,0.0
+52,817609c8-61c2-4bc0-a13a-886537dcf03a,Jaél de Peigne,"November 1566 Killigrew married<ss>Catherine,<ss>November 1590 he was married<ss>Jaél de Peigne,",Catherine<sv>Killigrew getting married to Catherine,0.25,0.0
+53,9ed69d28-eb13-469e-8f0c-fc0b7a764461,Hanworth <ss> Middlesex <ss> Falmouth,Hanworth<ss>Falmouth,Hanworth<ss>Falmouth<sv>Hanworth<ss>Falmouth,0.67,0.0
+54,abbbabbd-878b-427c-aed5-521c71ce15e0,Cecil <ss> Jaél de Peigne <ss> Henry,Catherine<ss>Jaél de Peigne,Catherine<ss>Jaél de Peigne<sv>Catherine<ss>Jaél de Peigne,0.33,0.0
+55,20bf14f8-359b-4a06-a70b-8f663ef70529,Killigrew <ss> Sir Anthony Cooke,Killigrew<ss>George Downham,Henry Killigrew<ss>George Downham<sv>Killigrew<ss>George Downham,0.5,0.0
+56,e78bd046-1df8-4191-8645-1baf57255d48,Vladislaus,Matthias Corvinus<ss>his son King Maximilian I,Frederick<sv>Matthias Corvinus,0.0,0.0
+57,02d84db7-34ac-4c30-87e0-8769ec27083d,Battle of Mohács,in 1491<ss>signed the Peace of Pressburg,Peace of Pressburg<sv>Peace of Pressburg,0.33,0.0
+58,c694a9c1-0eb0-4bc5-a07b-df2681a015d4,archbishop of Karelia <ss> Orthodox Church Museum of Finland,orthodox monasteries<ss>Orthodox Church Museum,monasteries<ss>Church Museum<sv>Orthodox Church Museum<ss>The Diocese of Karelia<sv>The Orthodox Church Museum<ss>The Diocese of Karelia,0.71,0.0
+59,b18bffdc-4d74-4dd2-92c6-b5e45b8b83cb,Armistice was signed,"leader of the Guarani rebels,<ss>Sepé Tiaraju, was killed",Armistice,0.5,0.0
+60,2728b800-74a3-49cd-9ffb-eb358cc801b0,Duke Magnus Birgersson started a war,Duke Magnus Birgersson<ss>started a war,started a war<sv>he started a war,0.57,0.0
+61,1e078c43-c368-4bbc-9db7-24bc275dbb7d,Jamal Lewis,Chris McAlister intercepted a pass<ss>ran 60 yards<ss>for another touchdown,Haloti Ngata<sv>Chris McAlister,0.0,0.0
+62,901721cd-3a6b-4cd3-b50b-77b58a3d1e67,most players used by a single team <ss> longest game time,most innings<ss>most players used<ss>longest game time,longest game time<sv>most innings<ss>most players used<ss>longest game time,0.56,0.0
+63,993ea25b-56e6-405d-9abc-fdcce29e4b58,Burkes <ss> Chris Burke,Berkmans grand slam<ss>Burkes home run,Berkmans grand slam<ss>Burkes home run<sv>grand slam,0.25,0.0
+64,73cbcf82-9292-4c30-9751-8a242d6d1a29,Atlanta Braves <ss> Astros,Astros<ss>Braves,The Astros<ss>St. Louis<sv>The Astros<ss>St. Louis,0.83,0.0
+65,6fc56ebd-64f9-48ef-a336-174e465fe48e,murder rate <ss> burglary rate,murder<ss>burglary,murder rate<ss>burglary<sv>murder<ss>burglary,0.83,0.0
+66,23b9bca7-5424-42c0-a9c7-2ae59acbe017,Aigina <ss> Venetians,Romania<ss>Laconia<ss>Messenia<ss>Achaea,Romania<ss>Laconia<ss>Messenia<ss>Achaea<sv>Romania<ss>Laconia<ss>Messenia,0.0,0.0
+67,9897b605-c973-4c1e-8a77-769d0ed75e68,Aigina <ss> Romania <ss> Navarino <ss> Achaea,Romania<ss>Laconia<ss>Messenia<ss>Achaea,Romania<ss>Laconia<ss>Messenia<ss>Achaea<sv>Romania<ss>Laconia<ss>Messenia<ss>Achaea,0.5,0.0
+68,78330072-09f3-4606-8590-ca1900b01093,"Romania <ss> Monemvasia, Messenia <ss> Patras",Nafplion<ss>Monemvasia<ss>Navarino<ss>Patras,Romania<ss>Laconia<ss>Messenia<ss>Achaea<sv>Nafplion<ss>Monemvasia<ss>Navarino<ss>Patras,0.42,0.0
+69,0bb6ba0f-807f-44da-aa0d-bb21e7b48fe0,king Chulalongkorn enacted two decrees banning <ss> the capture and sale of Kha slaves,king Chulalongkorn enacted two decrees<ss>banning the capture and sale<ss>of Kha slaves,king Chulalongkorn enacted two decrees banning the capture and sale of Kha slaves<sv>two decrees<sv>king Chulalongkorn enacted two decrees,0.53,0.0
+70,e8a36536-f4ae-4a8b-89c5-01bf581a4663,Inner Provinces <ss> tributary states,Inner Provinces<ss>Outer Provinces<ss>tributary states,Inner Provinces<ss>Outer Provinces<ss>tributary states<sv>Inner Provinces<ss>Outer Provinces<ss>tributary states,0.67,0.0
+71,cf0ec933-6789-4145-ab5c-c32bb3d6d34c,killed <ss> wounded <ss> missing,killed<ss>missing,killed<ss>missing<sv>8000,0.67,0.0
+72,31bcdb4d-e167-4fe7-9d44-3d6d76c4cad8,the PUK,"The KDP<ss>estimated that 58,000",KDP<sv>The KDP<sv>KDP<sv>KDP,0.0,0.0
+73,5910548b-b133-423b-a075-a5e8a57049ff,Tsetsyura <ss> Hetmanate,Tsetsyura<ss>Sheremetev,Yurii Khmelnytsky<ss>Tsetsyura<sv>Tsetsyura<ss>Yurii Khmelnytsky<sv>Yurii Khmelnytsky<ss>Tsetsyura,0.5,0.0
+74,bbdb1206-a342-4350-b660-c120fbc22c6d,broke the alliance with Moscow,"pay 300,000 rubles<ss>evacuate","pay 300,000 rubles<ss>evacuate Kiev, Pereyaslav, Chernigov<sv>pay 300,000 rubles<ss>evacuate Kiev, Pereyaslav, Chernigov",0.0,0.0
+75,52bcf4d6-e4a0-40bb-a526-025a44740019,American <ss> Italian <ss> Italian <ss> Polish,Italian<ss>Polish<ss>American,Italian<ss>Polish<ss>American,0.75,0.0
+76,865f86c6-5caf-4762-a3fd-912a2cf70852,American Indian <ss> Pacific islander <ss> other races <ss> two or more races,American Indian<ss>Pacific islander<ss>other races,Asian<ss>American Indian<ss>Pacific islander,0.75,0.0
+77,acf5ca68-bab4-451e-91dd-2be660deb92a,American Indian <ss> Pacific islander <ss> other races <ss> people <ss> households,American Indian<ss>Pacific islander<ss>other races<ss>Irish<ss>English,American Indian<ss>Pacific islander<ss>other<sv>0.3% American Indian<ss>0.1% Pacific islander<ss>0.9% from other races,0.6,0.0
+78,2e080a3c-46e3-4f73-81a8-59a221799c64,51 <ss> 50 <ss> 51,51<ss>50,51-yard<ss>50-yard<sv>51-yard<ss>50-yard,0.67,0.0
+79,99675a67-efdc-415d-bc9a-7273ee03cb22,South Bucks <ss> Canterbury <ss> Portsmouth,South Bucks<ss>Canterbury,South Bucks<ss>Canterbury<sv>South Bucks<ss>Canterbury,0.67,0.0
+80,0edbf486-7037-490f-8e37-a0ec47589ad1,Wokingham <ss> Wokingham <ss> Bracknell Forest <ss> Surrey,Portsmouth<ss>Thanet,Thanet<ss>Portsmouth<sv>Portsmouth<ss>Thanet,0.0,0.0
+81,5cba5d04-c6af-4338-a06f-bd5b9dd9f9d3,Canterbury <ss> Portsmouth,Southampton<ss>Rushmoor,Southampton<ss>Rushmoor<sv>Southampton<ss>Rushmoor,0.0,0.0
+82,98842c5f-aa44-4372-a501-948765e5a88d,Craig Terrill <ss> Patrick Willis,DT Craig Terrill<ss>LB Patrick Willis,Craig Terrill<sv>Craig Terrill,0.8,0.0
+83,86969fad-0eda-4854-83e4-e08014809588,Bryant Johnson <ss> T. J. Duckett,Frank Gore<ss>T. J. Duckett,Frank Gore<ss>T. J. Duckett,0.5,0.0
+84,c6e29c82-dcc6-4feb-b966-2fb5e51748b8,first quarter,"first quarter, the Texans delivered<ss>for a touchdown<ss>Colts responded<ss>completing a 2-yard TD pass",first<sv>1<sv>1,0.67,0.0
+85,22b24394-170f-4d4e-b33a-ed8a1c534fc0,five Abu Sayyaf gunmen,Gao Huayun<ss>Marcy Dayawan,Gao Huayun<ss>Marcy Dayawan<sv>Gao Huayun<ss>Marcy Dayawan,0.0,0.0
+86,6fffa5ad-c049-45df-aaac-82ad8da8a92f,Muktadil brothers <ss> Mindas Muktadil,Mindas Muktadil<ss>Kadafi Muktadil<ss>Nixon Muktadil<ss>Brown Muktadil<ss>Badong Muktadil,Mindas Muktadil<ss>Kadafi Muktadil<ss>Nixon Muktadil<ss>Brown Muktadil<ss>Badong Muktadil<sv>Badong Muktadil<ss>Mindas Muktadil<ss>Kadafi Muktadil<ss>Nixon Muktadil<ss>Brown Muktadil,0.3,0.0
+87,3a628138-e841-47e9-89cc-2781f9a3b3d0,encampment,defense preparations had assured<ss>no boats were available,launched a successful surprise attack<sv>surprise attack<sv>surprise attack<sv>surprise attack,0.0,0.0
+88,23e5f993-8682-40dc-a61e-7d268890daa8,convergence of Protestant hostility to the Habsburgs,convergence of Protestant<ss>hostility to the Habsburgs,Protestant hostility to the Habsburgs<sv>Protestant hostility to the Habsburgs,0.8,0.0
+89,0f2c1862-c1eb-44c4-852e-357cc0ece6f6,François de Bonne <ss> Charles de Blanchefort <ss> Marquis de Créquy,"François de Bonne,<ss>Duke of Lesdiguières<ss>Charles de Blanchefort<ss>Marquis de Créquy,",François de Bonne<ss>Duke of Lesdiguières<ss>Charles de Blanchefort<ss>Marquis de Créquy<sv>François de Bonne<ss>Charles de Blanchefort,0.75,0.0
+90,e64acb37-ecb7-4311-bdc4-7554d4103708,General Xiao Sunning <ss> Liao Sunning,Khitans<ss>Korea,Khitans<ss>Goryeo<sv>Korea<ss>China<sv>Korea and Goryeo,0.0,0.0
+91,6cbe18a5-09e1-4eed-a56a-9cab4b240bea,Khitans <ss> Minister Seo Hui,Khitan<ss>Goryeo,Khitans<ss>Korea<sv>Khitans<ss>Korea,0.5,0.0
+92,721a35e3-573f-45e7-a1fc-93dde3ff31cc,2006-08 FA Cup <ss> 2008-08 FA Cup <ss> 2013-14 FA Cup,2007-08 FA Cup<ss>2013-14 FA Cup<ss>2014-15 FA Cup,2014-15<sv>3,0.58,0.0
+93,5513706a-74a8-44be-be03-cccb6131b5c0,2004-22 <ss> 2008-08,FA Cup 2004-05<ss>1921-22 season<ss>2005-06 FA Cup<ss>2006-07 FA Cup,2004-05<ss>1921-22<ss>2005-06<ss>2006-07<sv>2004-05 season<ss>1921-22 season<ss>2005-06 FA Cup<ss>2006-07 FA Cup,0.12,0.0
+94,3cee3cf2-f925-491d-8b6e-46dc74c26223,2008-08 FA Cup <ss> 2012-13 FA Cup <ss> 2014-15 FA Cup,2008-09 FA Cup<ss>2009-10 FA Cup,2008-09<ss>2009-10<sv>2008-09 FA Cup<ss>2009-10 FA Cup,0.25,0.0
+95,77b3a4e9-ffe2-4e88-bdf9-0669ca6431af,2006-07 FA Cup <ss> 2008-08 FA Cup,2008-09<ss>2009-10,2010-11<sv>2008-09 FA Cup<ss>2009-10 FA Cup,0.38,0.0
+96,cd57626b-5eab-4739-ab48-159101318a0b,2004 merger of Lutheran and Reformed Church,the formation of<ss>the Restored Reformed Church,formation<sv>the Restored Reformed Church,0.4,0.0
+97,63e0012e-22e6-4ff5-9ee9-67201e73af3a,Dutch Reformed Church <ss> Protestant Church,Evangelical Lutheran Church<ss>The Dutch Reformed Church<ss>the Roman Catholic Church,Evangelical Lutheran Church<ss>Dutch Reformed Church<sv>Evangelical Lutheran Church<ss>Dutch Reformed Church<ss>Protestant Church,0.7,0.0
+98,95717e8a-3e01-44ac-9ad8-ebdc8746f3c0,2004,same-sex unions<ss>ordination of women,ordination of women<ss>blessing of same-sex unions<sv>ordination of women<ss>blessing of same-sex unions,0.0,0.0
+99,876b8074-2859-44d5-a173-07683a886a20,Dutch Reformed Church <ss> Protestant Church,The Dutch Reformed Church<ss>Roman Catholic Church,Dutch Reformed Church<ss>mainstream Protestant church<sv>Reformed Churches<sv>Reformed Churches<ss>Roman Catholic Church<sv>Dutch Reformed Church<ss>Restored Reformed Church<sv>Reformed Churches<ss>Protestant church,0.9,0.0
+100,a2cea3c7-91ff-481a-805d-5dba5b5fb370,Reformed and Lutheran confessions,the ordination of women<ss>blessing of same-sex unions,ordination of women<ss>blessing of same-sex unions<sv>the ordination of women<ss>blessing of same-sex unions<sv>ordination of women<ss>blessing of same-sex unions<sv>ordination of women<ss>blessing of same-sex unions,0.0,0.0
+101,af897561-d4e5-4f0f-88a5-064288631856,26-yard <ss> 34-yard <ss> Kris Brown <ss> Sebastian Janikowski,26-yard<ss>33-yard,26-yard field goal<ss>33-yard field goal<sv>26-yard<ss>33-yard,0.25,0.0
+102,bc0925b0-116a-4331-8b1d-85d1f36ed7a6,killed,six dead<ss>27 wounded,wounded<sv>wounded,0.0,0.0
+103,ecf237e2-2ffb-4228-9eb3-8b71bcbb1e69,Dutch East India Company Fleet sailed from Batavia,Dutch East India Company fleet<ss>sailed<ss>from Batavia,sailed from Batavia<sv>Dutch East India Company fleet,0.77,0.0
+104,f47d9f89-3aa3-4499-bb6b-baf626a27636,first <ss> third,first quarter<ss>second quarter,first<ss>second<ss>third<ss>fourth<sv>first quarter<ss>second quarter<sv>second quarter<sv>first<ss>second<ss>third<ss>fourth,0.5,0.0
+105,fa60e659-7672-461f-a9f8-1ee95ea1ca6f,9 <ss> 4 <ss> 4,4<ss>9,"9-yard<ss>4-yard<sv>9-yard<ss>4-yard<sv>9, 4",0.67,0.0
+106,d85999c9-8e2e-42ee-98c4-9921ab62398f,9-yard <ss> 4-yard,2 yards<ss>85 yards<ss>4-yard<ss>3-yard,2 yards<ss>85 yards<ss>9-yard<ss>4-yard<ss>3-yard<sv>5,0.4,0.0
+107,1f486c1e-aede-4868-aaee-16c64f23428b,Green Standard <ss> Tai-Shan militias,Green Standard troops<ss>Tai-Shan militias,"Green Standard troops<ss>Tai-Shan militias<sv>3,500 Green Standard troops",0.9,0.0
+108,1dcf42a9-62d6-4a4b-9014-1b2009b1b584,Marshal of France Hugh,France Hugh<ss>Philip of Montfort,France Hugh<sv>France Hugh,0.67,0.0
+109,77567bc6-adb8-42fa-b328-840330c1cb9f,Germans <ss> English,English<ss>Irish,English<ss>Irish<sv>English<ss>Irish,0.5,0.0
+110,84827b40-6526-4aac-b41b-3776a3fcc10e,Germans <ss> English,English<ss>Irish,English<ss>Irish<sv>English<ss>Irish,0.5,0.0
+111,458b05e5-fd0d-4b2f-a335-4fdcb546079f,The Elder and his children,Hernán Peraza The Elder<ss>Guillén Peraza and Inés Peraza,Hernán Peraza<sv>Hernán Peraza The Elder<ss>Guillén Peraza<ss>Inés Peraza,0.14,0.0
+112,44296346-ad69-4303-8cb3-f7f9fc277b46,Diego Garc ⁇ a de Herrera,until 1477 when they ceded<ss>to their son Hernán Peraza,Diego García de Herrera<sv>Hernán Peraza The Younger,0.67,0.0
+113,2a694e8b-156c-4cc7-bfce-bc5099a281a8,British Somaliland <ss> Italian Somaliland,Kenya<ss>Kenyan,Kenyan<sv>Kenyan<sv>Kenya,0.0,0.0
+114,10a76bc7-5704-4e74-b84e-c5a40ca2bdda,Somali Youth League <ss> Somali National League,Somali Youth League<ss>Hizbia Digil Mirifle Somali<ss>Somali National League,Hizbia Digil Mirifle Somali<ss>Somali National League<sv>Somali Youth League<ss>Hizbia Digil Mirifle Somali<ss>Somali National League<sv>Hizbia Digil Mirifle Somali<ss>Somali National League,0.67,0.0
+115,c13474b7-a7e5-4fea-a410-c87552ae17ff,Red civilian refugees,western Red Guards<ss>Red civilian refugees,Red Guards<ss>Red civilian refugees<sv>German troops,0.5,0.0
+116,915fe0e5-8b57-4a30-a689-d224fcae6f2c,Salpausselkä <ss> Hennala <ss> Russia,Nastola<ss>Salpausselkä<ss>Hennala,east-southeast via Nastola<ss>Mustankallio graveyard in Salpausselkä<ss>Hennala<sv>Lahti<ss>Nastola<ss>Salpausselkä<ss>Hennala,0.67,0.0
+117,4781e24f-8966-4a4a-940e-0eeb06944e40,Silesian duke <ss> Hohenzollern Prince-Elector Joachim II Hector of Brandenburg,Frederick II<ss>Joachim II,Frederick II<ss>Joachim II Hector<sv>Frederick II<ss>Joachim II<sv>Frederick II of Legnica<ss>Joachim II Hector of Brandenburg,0.38,0.0
+118,5c70c238-e401-46cc-a023-a4d50bf73de1,the Silesian duke,Frederick II of Legnica<ss>Joachim II Hector of Brandenburg,Frederick II<ss>Joachim II Hector<ss>Wohlau and Brieg<sv>Silesian duke Frederick II<ss>Joachim II Hector of Brandenburg,0.33,0.0
+119,08df1bd0-67b7-4c99-aa78-a436da6963d4,Central Powers,Central Powers<ss>Romania,Romania<ss>the Central Powers<sv>Romania,0.5,0.0
+120,ed1e3110-ac93-402a-82b4-fdbd574731bb,pro-Free State Blueshirts,IRA<ss>pro-Free State Blueshirts,IRA<sv>the IRA,0.5,0.0
+121,f38aa2e7-2c4a-4b35-8df6-011b3c34a8dd,the Hotaks were the new <ss> Shah of Persia,Battle of Gulnabad<ss>Sultan Husayn abdicated,Battle of Gulnabad<ss>new Shah of Persia<sv>defeating the Persian army<ss>besieged Isfahan,0.43,0.0
+122,b0c8be4d-b753-48cc-9bd2-8e6b32dad7d6,Brian Westbrook <ss> L.J. Smith,4-yard touchdown pass to running<ss>back Brian Westbrook<ss>wide receiver James Thrash<ss>on a 4-yard touchdown pass,Brian Westbrook<ss>James Thrash<sv>James Thrash<ss>Brian Westbrook,0.5,0.0
+123,1dfb17ac-5ae2-4064-96e3-af5114ed0084,Indians <ss> Bangladeshis,Pakistanis<ss>Filipinos,Pakistanis<ss>Filipinos<sv>Pakistanis<ss>Filipinos,0.0,0.0
+124,26c6ed1a-2b22-44f5-81a6-e7ee99d1e5fb,Indians <ss> Bangladeshis,Pakistanis<ss>Filipinos,Pakistanis<ss>Filipinos<sv>Pakistanis<ss>Filipinos<sv>Pakistani<ss>Filipino,0.0,0.0
+125,ce8cdee7-0004-4084-8531-978e670062c8,John <ss> his father,his son<ss>his father,his son John<ss>his father<sv>his son John<ss>his father,0.75,0.0
+126,fd5a71d7-7974-4917-bd15-6a8602fa6c55,The ongoing conflicts of post-invasion <ss> the Darfur conflict <ss> the Second Chechen War,2001 war in Afghanistan<ss>Darfur conflict<ss>rebellion in the North<ss>Second Chechen War,post-invasion Iraq<ss>2001 war in Afghanistan<ss>the Darfur conflict<ss>rebellion in the North of Uganda<ss>Second Chechen War<sv>Iraq<ss>renewed Taliban insurgency<ss>Darfur conflict<ss>North of Uganda<ss>Laotian Civil War<ss>Afghanistan in the 1980s<ss>war in Iraq in 2003.,0.5,0.0
+127,04be4b14-eec1-4b21-9bbd-347cb888acdb,Second Chechen War <ss> Laotian Civil War,war in Afghanistan<ss>Darfur conflict<ss>North of Uganda<ss>Second Chechen War,post-invasion Iraq<ss>Taliban insurgency<ss>the Darfur conflict<ss>North of Uganda<ss>the Second Chechen War,0.33,0.0
+128,09454605-9dbd-451b-a2ef-5b9693205bb1,Corps HQs <ss> two Nizamiye divisions <ss> Redif divisions,the Greek Army<ss>Ottoman forces<ss>Macedonian Army<ss>Serbs,"""Greek Army"",""Ottoman forces""<sv>the Greek Army of Thessaly<ss>Ottoman opposition",0.0,0.0
+129,13549de7-87fa-4090-809e-2f7ee90bea38,artillery pieces <ss> machine guns,Corps HQs<ss>Nizamiye divisions,Two Corps HQs<ss>two Nizamiye divisions<sv>Corps HQs<ss>Nizamiye divisions,0.0,0.0
+130,ad06ec04-05fb-4a79-b588-7c0d9656b865,the Bolshevik Central Committee,26 mandatory delegates were<ss>proposed by the Bolshevik<ss>58 were proposed by the<ss>Socialist Revolutionaries,Socialist Revolutionaries<sv>Socialist Revolutionaries,0.08,0.0
+131,f0267c1d-8c7c-475a-8557-5e5b66eb71cd,Shan <ss> Mone,Nyaungshwe<ss>Mone,"Nyaungshwe<ss>Mone<sv>Nyaungshwe<ss>Mone<sv>Nyaungshwe, Mone",0.5,0.0
+132,acc6fd38-cbe8-4d71-8d3f-abdda57415fc,under the age of 18 <ss> 25 to 44 <ss> 45 to 64,under the age of 18<ss>18 to 24<ss>25 to 44<ss>45 to 64,under the age of 18<ss>from 18 to 24<ss>from 25 to 44<ss>from 45 to 64,0.75,0.0
+133,a5c5a2d8-6d25-482e-b0a1-0c1746327b25,under the age of 18 <ss> 25 to 44 <ss> 45 to 64,under the age of 18<ss>18 to 24<ss>25 to 44<ss>45 to 64,under the age of 18<ss>18 to 24<ss>25 to 44<ss>45 to 64<sv>under the age of 18<ss>18 to 24<ss>25 to 44<ss>45 to 64,0.75,0.0
+134,64b9d730-4cd5-4a1d-bfa3-5942eb8e5ab4,Soroca <ss> Orhei,Cahul<ss>Soroca<ss>Orhei,Cahul<ss>Soroca<ss>Orhei<sv>Cahul<ss>Soroca<ss>Orhei,0.67,0.0
+135,98457160-9e47-4463-b61c-a1cfe5102610,never gave up its claims,Kengtung<ss>Sipsongpanna,Kengtung<ss>Sipsongpanna<sv>Kengtung and Sipsongpanna,0.0,0.0
+136,6b2fe198-c401-42aa-8c47-5175d0f04e8e,France <ss> Italy,Ottoman Empire<ss>France,Ottoman Empire<ss>France<sv>france ottoman,0.5,0.0
+137,1f3ddaf6-f003-418b-9fa4-d73f6032028a,Scholar Flotation <ss> Alan Sugar,Irving Scholar<ss>Paul Bobroff,Paul Bobroff<ss>Irving Scholar<sv>Irving Scholar<ss>Paul Bobroff<sv>Irving Scholar<ss>Paul Bobroff,0.25,0.0
+138,21427c7a-14fd-45be-9156-a4b28dc2748c,Minkhaung's uncle <ss> brother,lord of Yamethin<ss>uncle at Prome,Yamethin<ss>uncle at Prome<sv>his younger brother<ss>uncle<sv>his younger brother<ss>Minkhaung's uncle,0.75,0.0
+139,a6117d57-8f80-40f0-9a02-0bd4778509fa,11 <ss> 2 <ss> 2,1-yard<ss>21-yarder<ss>2-yarder,11-yard<ss>21-yarder<ss>2-yarder,0.44,0.0
+140,f91804a4-cef8-4e2c-a589-e26fd45745b5,Chad Simpson getting a 31-yard touchdown run,Jacob Lacey returning an interception<ss>35 yards for a touchdown,45-yard<sv>45-yard field goal<sv>35 yards<sv>45-yard field goal,0.0,0.0
+141,1a0d7a7a-bbe1-476e-9679-3f94af700f9c,France <ss> England,1986<ss>1990<ss>1994,1986<ss>1990<ss>1994,0.0,0.0
+142,902e445d-3805-4499-851e-1c9a954da06c,Japanese <ss> Chinese,Japanese<ss>Chinese<ss>expatriates from other Asian countries<ss>Europe<ss>the Americas<ss>Burmese<ss>Cambodians<ss>Lao,Japanese<ss>Chinese<ss>Europe<ss>Americas<ss>Australia<ss>Africa<ss>Burmese<ss>Cambodians<ss>Lao<sv>Japanese<ss>Chinese<ss>other Asian countries<ss>Europe<ss>the Americas<ss>Australia<ss>Africa<ss>Burmese<ss>Cambodians<ss>Lao,0.25,0.0
+143,52d80647-06de-41cc-bf56-48a1d1812685,Japanese <ss> Chinese <ss> Chinese,Japanese<ss>Chinese<ss>Europe<ss>America<ss>Asian,Japanese<ss>Chinese<ss>Europe<ss>America<ss>Asian,0.4,0.0
+144,38b18b97-bb2f-4175-a39e-29252d72fb0c,Asia <ss> the Americas,Asian<ss>Chinese<ss>Japanese,Asian<ss>Chinese<ss>Japanese,0.0,0.0
+145,3a70b771-2f1f-4ba9-a2eb-ad3d21c8c560,Cambodians <ss> Laos <ss> Myanmar,Australia<ss>Africa<ss>Lao,Australia<ss>Africa<sv>Australia<ss>Africa<ss>Lao,0.0,0.0
+146,a5722a89-ddb6-432b-b3f5-319fb2aff3ca,Alfred A. Knopf Sr. <ss> Alfred Knopf,Alfred Knopf<ss>Blanche Knopf<ss>Samuel Knopf,Alfred Knopf<ss>Blanche Knopf<ss>Samuel Knopf,0.47,0.0
+147,1224c122-65af-4cbb-be17-522bf14dbbdc,European <ss> French <ss> American,Russia<ss>French<ss>Polish,French<ss>Russian<ss>Polish,0.33,0.0
+148,267b402c-4a04-4ccc-a725-23e827562724,Danish king <ss> joint Masters of the Order,joint Masters of the Order<ss>the Swedes,Danish<ss>Swedes<ss>joint Masters of the Order<sv>Danish king Waldemar II<ss>joint Masters of the Order<sv>Danish<ss>Swedes,0.83,0.0
+149,ba04b5c7-b0ea-45c4-81c6-e32db9d323d8,May <ss> May <ss> May <ss> August,June<ss>August,June<ss>August<sv>June<ss>August,0.25,0.0
+150,a250133b-9b85-4c0b-8496-fb1fd74bb274,May <ss> May <ss> Cardinal Pierre des Près <ss> Fasanier <ss> O.Cist. <ss> Cardinal Guillaume Court <ss> O.Cist,May<ss>July<ss>September,May<ss>September<sv>May<ss>July<ss>September,0.14,0.0
+151,dff115fd-b081-470d-a217-628ed9ede17e,economically active,economically active<ss>students,less economically active unemployed<sv>unemployed,0.67,0.0
+152,0d2f8c43-f67d-48fd-a63d-c451d29484f1,Homemaking <ss> unable to work,"economically active,<ss>Homemaking",economically active<ss>Homemaking<sv>economically active<ss>Homemaking,0.5,0.0
+153,97fb52fe-0314-4d30-97cd-58e4813db267,Cowboys,end of the half<ss>28–7<ss>San Francisco scored<ss>making the score 28-14,49ers<sv>49ers,0.0,0.0
+154,b86b5120-1db8-45f3-aa7e-f7246e7d802c,"October 1977 <ss> October 1978 <ss> October 1977 <ss> 1500 Soviet ""advisors"" <ss> October 1978",October 1977<ss>January 1978,October 1977 until January 1978<sv>October 1977 until January 1978<sv>October 1977 until January 1978<sv>From October 1977 until January 1978,0.3,0.0
+155,d39fb084-0964-4702-9bca-c23cf07607f3,Cuban soldiers,Ethiopian<ss>soldiers,Ethiopian<sv>Ethiopians,0.33,0.0
+156,98160156-f6ac-4953-98b2-3515a9467666,demoralized Ethiopian air attacks,constant Ethiopian air attacks<ss>on their supply lines,constant Ethiopian air attacks<sv>constant Ethiopian air attacks,0.75,0.0
+157,58bb3ea6-75a6-4e48-812d-1690ecdfce9f,A Portuguesa,"Hymno da Carta in use<ss>since May 1834,<ss>On 19 June 1911 the<ss>National Constitutional Assembly proclaimed A<ss>Portuguesa as the national anthem,",Hymno da Carta<sv>Hymno da Carta<sv>Hymno da Carta<sv>Hymno da Carta,0.08,0.0
+158,36606e9e-faa1-4b6a-b821-5e1dd4a122f1,WR,QB<ss>WR,QB<ss>WR,0.5,0.0
+159,2e34f48c-9b0b-4501-8890-2c549bdcf71f,Sebastian Janikowski <ss> LaMont Jordan,Jason Elam<ss>Sebastian Janikowski,Janikowski<ss>Elam<sv>Jason Elam<ss>Sebastian Janikowski,0.5,0.0
+160,12d2bbe2-263a-4e90-9035-ec44a1d8e9d9,Saints,New Orleans<ss>Saints,New Orleans<sv>New Orleans<sv>New Orleans<sv>New Orleans,0.5,0.0
+161,9d44cd37-98ef-4e76-b266-79d66b9315a0,18-yard,18-yard<ss>19-yard,18-yard<ss>19-yard<sv>18-yard<ss>19-yard,0.5,0.0
+162,11a6b89e-0bc5-41e6-8343-a8b3bea2cfcd,83 <ss> 34 porters <ss> archers,soldiers<ss>porters<ss>archers,soldiers<ss>porters and archers,0.56,0.0
+163,eb29b7d7-abe6-437d-b4e8-c708df616c3e,Yancey Thigpen <ss> Ernie Mills,Yancey Thigpen<ss>Erric Pegram,Yancey Thigpen<ss>Erric Pegram<sv>Yancey Thigpen<ss>Erric Pegram,0.5,0.0
+164,d187ce18-2c4f-49b5-a653-66bca04a300b,Yancey Thigpen <ss> Erric Pegram <ss> Bam Morris,Neil ODonnell<ss>Ernie Mills<ss>Bam Morris,Erric Pegram<ss>Yancey Thigpen<sv>Neil ODonnell<ss>Ernie Mills<ss>Bam Morris,0.67,0.0
+165,04f796e2-1860-4455-905e-7479f0465000,Longwell <ss> John Kasay,Kasay<ss>Karney,Karney<ss>Kasay<sv>John Kasay<ss>Karney,0.5,0.0
+166,09af6e09-38f2-47f7-a3d5-055a779204a2,King Amangkurat I <ss> Pangeran Puger,Amangkurat II<ss>Pangeran Puger,Amangkurat II<ss>Pangeran Puger<sv>Amangkurat II<ss>Pangeran Puger<sv>Amangkurat II<ss>Pangeran Puger<sv>Amangkurat II<sv>Amangkurat II<ss>Pangeran Puger<sv>Amangkurat II<ss>Pangeran Puger,0.7,0.0
+167,712ba53b-d57b-4149-827f-83f90ba1dfe0,Wieli ⁇  <ss> Pu ⁇ sk <ss> Kupise <ss> Biel <ss> Markowa,Wieliż<ss>Puńsk<ss>Kupise<ss>Biel<ss>Markowa,Wieliż<ss>Puńsk<ss>Kupise<sv>Wieliż<ss>Puńsk<ss>Kupise<ss>Biel<ss>Markowa,0.6,0.0
+168,19022635-026d-4ab7-9cdf-e098b04f6f11,Wieli ⁇  <ss> Pu ⁇ sk <ss> Kupise <ss> Biel <ss> Markowa,Wieliż<ss>Puńsk<ss>Kupise<ss>Biel<ss>Markowa,Wieliż<sv>Wieliż<ss>Puńsk<ss>Kupise<ss>Biel<ss>Markowa,0.6,0.0
+169,d2f2788d-6204-40e5-87d0-cebe231f1564,Chicago Bears <ss> Minnesota Vikings <ss> Pittsburgh Steelers <ss> Green Bay Packers,Pittsburgh Steelers<ss>Green Bay Packers<ss>New England Patriots,Pittsburgh Steelers<ss>Green Bay Packers<ss>New England Patriots<sv>Pittsburgh Steelers<ss>Green Bay Packers<ss>New England Patriots,0.5,0.0
+170,333025d2-3ce9-405d-b47e-f5f4c660dbf4,Chicago Bears <ss> Minnesota Vikings <ss> Pittsburgh Steelers <ss> New England Patriots,Pittsburgh Steelers<ss>New England Patriots,New England Patriots<sv>3,0.5,0.0
+171,1e221f63-9654-4ba4-98ed-355cca7c401b,49 ers <ss> 2007 New England Patriots,49ers<ss>Bears<ss>New England Patriots,Bears<ss>Patriots<ss>49ers<sv>3,0.29,0.0
+172,41418bd9-83ea-48ad-927f-1b898baa13b0,"With the loss, <ss> not only did the Dolphins fall to 0-6",With the loss<ss>not only did the Dolphins<ss>fall to 0-6,Dolphins<sv>Dolphins<sv>Dolphins,0.56,0.0
+173,6bce16f6-eb56-4b08-99b5-538d28930847,Jason Wright <ss> Derek Anderson,Jason Wright<ss>Derek Anderson<ss>Cleo Lemon,Jason Wright<ss>Derek Anderson<ss>Cleo Lemon<sv>Jason Wright<ss>Derek Anderson<ss>Cleo Lemon,0.67,0.0
+174,2c4c5003-e35a-45fa-bd57-2bec7a019c6c,4-yard <ss> 14-yard <ss> Derek Anderson <ss> Cleo Lemon,4-yard<ss>5-yard,5-yard<sv>4-yard<ss>5-yard,0.25,0.0
+175,a41f2022-868f-4dba-9ac5-f5710c5865b8,Mark Sanchez,Ryan Fitzpatrick<ss>Mark Sanchez,Mark Sanchez<ss>Ryan Fitzpatrick<sv>Mark Sanchez<ss>Ryan Fitzpatrick,0.5,0.0
+176,2c1435a5-47b5-46e9-9269-fce36f88e79f,second <ss> third,first<ss>second<ss>third<ss>fourth,first<ss>second<ss>third<ss>fourth<sv>first<ss>second<ss>third<ss>fourth,0.5,0.0
+177,0bacc126-acdf-4c34-9549-0d9413d460fd,France <ss> Netherlands,Italy<ss>Netherlands,United Kingdom<ss>Spain<ss>Italy<sv>United Kingdom<ss>Spain<ss>Germany<ss>Italy,0.5,0.0
+178,69f93831-4081-44ea-b212-31e475092207,France <ss> United Kingdom <ss> Spain <ss> Italy <ss> Netherlands,Spain<ss>Italy<ss>the Netherlands,Germany<ss>France<ss>United Kingdom<sv>Spain<ss>Italy<ss>Netherlands,0.6,0.0
+179,93381eda-fb0b-4a63-9e40-2f0d3ec1c8ba,Grand Prince Iziaslav of Kiev <ss> Princes Sviatoslav Yaroslavich of Chernigov <ss> Vsevolod,Grand Prince Iziaslav of Kiev<ss>Sviatoslav Yaroslavich of Chernigov<ss>Vsevolod,Grand Prince Iziaslav<ss>Sviatoslav Yaroslavich<ss>Vsevolod,0.96,0.0
+180,a1807e6c-741e-4a74-8600-4b1a960ab619,April <ss> April,April 23<ss>February 3,"April 23, February 3<sv>April 23<ss>February 3",0.0,0.0
+181,28b63ef3-a9f9-44d5-af13-1d237d60bef2,a-cease-fire,"September 1997, Turkish forces<ss>re-entered Iraqi Kurdistan<ss>On 24 November 1997<ss>KDP declared a unilateral cease-fire",Turkish forces re-entering Iraqi Kurdistan,0.14,0.0
+182,3f6187dd-4a87-4bcb-ad46-94e3b0b809f6,drain on state budgets,helped elect their bosses<ss>overly generous pension systems,overly generous pension systems<sv>they helped elect their bosses,0.0,0.0
+183,bba91abe-f66a-4458-a97f-e980c1b5a41f,Thailand <ss> Indonesia,Indonesia<ss>Malaysia,Indonesian and Malaysian<sv>Malaysia and Indonesia,0.5,0.0
+184,92797363-3e73-4170-930d-c4efdfd96dda,ASEAN <ss> Malaysia <ss> China,Indonesia<ss>Malaysia,Malaysia<ss>Indonesia<sv>Indonesia<ss>Malaysia,0.33,0.0
+185,07db4c65-49e5-40de-b513-8c830252736b,Court Library,five Lower Austrian Colleges<ss>Court Library,five Lower Austrian Colleges<sv>five Lower Austrian Colleges<ss>duplicates from the Court Library,0.5,0.0
+186,54a3ca15-6a70-49c4-a6cb-2c41113e6473,Mansfeld,Tercios<ss>Italian<ss>Spanish<ss>German,"Mansfeld's 2000<ss>foot and Tercios<ss>Italian, Spanish and German soldiers<sv>Tercios<ss>Italian<ss>Spanish<ss>German",0.0,0.0
+187,4a964c39-47ad-4bba-8942-c98cb289afb3,In the second half <ss> the Ravens scored their only point <ss> of the game <ss> The Lions scored their only point <ss> of the game <ss> The Lions scored their only point <ss> of the game <ss> The Lions scored their only point <ss> of the second <ss>,Baltimore finished out the first<ss>half with a 25-yard<ss>field goal.,Lions<sv>Ravens,0.03,0.0
+188,213b4e50-1ea4-4a06-9c67-0f943a70b22b,Marion,Marion<ss>Lieutenant Colonel Henry Lee,Marion<ss>Lieutenant Colonel Henry Lee<sv>Marion<ss>Lieutenant Colonel Henry Lee,0.5,0.0
+189,4964c8d1-a61a-4c7c-a5bc-28fd8a79916a,Georgetown,Fort Watson<ss>Fort Motte,Fort Watson<ss>Fort Motte<sv>Fort Watson<ss>Fort Motte,0.0,0.0
+190,69c2c837-c1da-48a8-841e-dccbae4a3275,2014,"By 2014,<ss>UMW has 35,000 members,<ss>By contrast it had 800,000<ss>in the late 1930s",1930<sv>1930,0.17,0.0
+191,9b00a7f1-c5f1-4c60-926e-d7df131b26e3,10 and 19 years <ss> 25 and 29 years <ss> 40 and 49 years <ss> 60 and 64 years <ss> 60 and 64 years <ss> 65 and over,20 and 24 years<ss>25 and 29 years,20 and 24<ss>25 and 29,0.17,0.0
+192,92de0f44-762f-4fc9-8ab6-8d0a9a8c5e23,between 10 and 19 years <ss> between 25 and 24 years,between 20 and 24 years<ss>between 25 and 29 years,between 25 and 29 years<ss>between 20 and 24 years,0.4,0.0
+193,215d7499-3945-4577-bd8e-e2022dce832a,25 and 29 years <ss> 25 and 29 years,20 and 24 years<ss>25 and 29 years,between 20 and 24 years<ss>between 25 and 29 years,0.5,0.0
+194,800ecfe2-0638-4514-93b6-5d06359444ad,60 and 64 years,between 20 and 24 years<ss>between 25 and 29 years,20 and 24 years<ss>25 and 29 years<sv>between 20 and 24<ss>between 25 and 29<sv>20 and 24 years<sv>20 and 24 years<ss>25 and 29 years,0.0,0.0
+195,3c7497ea-78a3-486b-8d45-909f6c0072ab,25 and 29 years,65 years and over<ss>older than 60<ss>under age 18,between 45 and 49 years<sv>45 and 49 years,0.0,0.0
+196,f1391a97-ab51-48f0-a8b6-3096d67df321,5 and 9 years <ss> 60 and 64 years,between 20 and 24 years<ss>between 25 and 29 years,20 and 24<ss>25 and 29<sv>between 20 and 24 years<ss>between 25 and 29 years,0.0,0.0
+197,5bf02085-eb0e-4cfb-b996-d85e65b3c5f4,Texas <ss> Texas <ss> Texas,diabetes<ss>hypertension,diabetes<ss>hypertension<sv>diabetes<ss>hypertension,0.0,0.0
+198,08bc6401-934a-4703-ae77-37fca8fa8339,heart disease <ss> arteriosclerosis <ss> hypertension,type 2 diabetes<ss>arteriosclerosis<ss>hypertension,diabetes<ss>arteriosclerosis<ss>hypertension<sv>type 2 diabetes<ss>arteriosclerosis<ss>hypertension,0.67,0.0
+199,856c15b7-3390-4dfa-b58b-a5d14d22dace,heart disease <ss> diabetes <ss> hypertension,heart disease<ss>hypertension,heart disease<ss>hypertension<sv>hypertension<ss>heart disease,0.67,0.0
+200,1179a508-77e1-4816-a30e-3020b86b8dc7,heart disease <ss> hypertension,diabetes<ss>cancer,diabetes<ss>obesity-related cancer<sv>obesity-related cancer<ss>diabetes,0.0,0.0
+201,c9f24c25-5211-4027-9fa6-28a0e9b61b55,heart disease <ss> hypertension,diabetes<ss>hypertension,"diabetes<ss>hypertension<sv>4,300,252 cases of hypertension",0.5,0.0
+202,ab248bfc-5853-464d-a561-fc430d40275e,heart disease <ss> hypertension,diabetes<ss>hypertension,"diabetes, hypertension<sv>diabetes<ss>hypertension",0.5,0.0
+203,bbc95609-acfd-4cf2-b7d2-7541319080a0,Han Chinese,Ho Yu<ss>Lin Hsing-chu,Former Ming loyalist Han Chinese troops<sv>Ho Yu<ss>Lin Hsing-chu,0.5,0.0
+204,d7c74a2c-4789-4087-8aa4-3b637acb285e,French fleet,Jerôme Maurand<ss>Polin,Jerôme Maurand<ss>Polin<sv>1544,0.0,0.0
+205,5bc4a665-d5e9-47e1-a806-c7d2ded59112,Treaty of Amiens allowed Sri Lanka to become a crown colony,Ceylon tea had become<ss>a staple of the<ss>British market,Ceylon tea<sv>Treaty of Amiens<sv>Ceylon tea becomes a staple,0.46,0.0
+206,09d40815-d551-42db-9096-59378b0190df,Devery Henderson <ss> Antonio Gates,Devery Henderson<ss>Antonio Gates<ss>LaDainian Tomlinson,Devery Henderson<ss>LaDainian Tomlinson<ss>Antonio Gates<sv>LaDainian Tomlinson<ss>Antonio Gates,0.67,0.0
+207,fd5c6fce-ecfc-465a-b3d6-afe7149db6c3,12 <ss> 12,12-yard<ss>1-yard,1<ss>12<ss>14,0.33,0.0
+208,46413f31-390e-46bd-869a-4f535d9d086b,Mike Karney <ss> Deuce McAllister,Deuce McAllister<ss>Mark Campbell<ss>Mike Karney,Mark Campbell<ss>Deuce McAllister<ss>Mike Karney<sv>Deuce McAllister<ss>Mark Campbell<ss>Mike Karney,0.67,0.0
+209,7f483afc-67be-4923-a3c0-711dc4e217a6,Mike Karney <ss> Deuce McAllister,Deuce McAllister<ss>Mark Campbell<ss>Mike Karney,Mark Campbell<ss>Deuce McAllister<ss>Mike Karney<sv>Deuce McAllister<ss>Mike Karney<ss>Mark Campbell,0.67,0.0
+210,a74c8faa-ef32-4779-91d0-3dc7d4b1e7a4,Tamil <ss> Urdu <ss> Malayalam <ss> Hindi,Urdu<ss>Malayalam<ss>Hindi<ss>Kannada,Urdu<ss>Malayalam<ss>Hindi<ss>Kannada,0.75,0.0
+211,dbe5be49-e3bf-41f1-932d-61ed0f42f7b9,Telugu <ss> Urdu,Telugu<ss>Malayalees,Telugu<ss>Malayalees<sv>Telugu<ss>Malayalees,0.5,0.0
+212,b1c7159d-87ce-4e24-aa46-ed0dfc0e11c8,Telugu <ss> Urdu <ss> Hindi,Tamil language<ss>Telugu language,Telugu<ss>Tamil<sv>Tamil<ss>Telugu,0.33,0.0
+213,4da64f03-53fb-4656-9522-2e38be1df8f1,Indian <ss> Indian,Sikh<ss>Buddhist,Sikh<ss>Buddhist<ss>other religions<sv>Sikh<ss>Buddhist<ss>other religions,0.0,0.0
+214,7f291237-f7cb-43c4-be2d-b032795d0c17,Tamil <ss> Indian,Tamil<ss>Telugu<ss>Urdu<ss>Malayalam<ss>Hindi<ss>Kannada,Tamil<ss>Telugu<ss>Urdu<ss>Malayalam<ss>Hindi<ss>Kannada,0.17,0.0
+215,d92cb0da-5627-46a1-9749-fdbfbf3dc025,Hindu,Muslim<ss>Tamil<ss>Telugu<ss>Urdu,"Muslim<sv>Hindu, 9.5%",0.0,0.0
+216,737ca566-2f3e-4850-8ce3-cb5c3e0c05fe,Hindu <ss> Muslim,Hindu<ss>Muslim<ss>Christian,Hindu<ss>Muslim<ss>Christian<sv>4646732,0.67,0.0
+217,a387c44c-0852-43e4-9a50-a2202c961db2,Kannada <ss> Malayalees,Hindi<ss>Kannada,Hindi<ss>Kannada<sv>4646732,0.5,0.0
+218,777f4a31-06b6-46df-a70f-09b36794225c,Telugu <ss> Urdu,Tamil<ss>Telugu<ss>Urdu,Tamil<ss>Telugu<ss>Urdu<sv>180245,0.67,0.0
+219,32f88e9a-a2a3-43c8-9c38-0a3eefaecee2,Indian English <ss> Telugu,Tamil<ss>Telugu,"Tamil language is spoken by 3,424,107 (78.8%), followed by Telugu language by 419,209 (9.7%)<sv>Tamil<ss>Telugu",0.5,0.0
+220,894b5cac-0c9c-421e-bda9-f0b1e49541d3,Hindu <ss> Hindu,Hindu<ss>Muslim,"hennais population was 80.7% Hindu, 9.5% Muslim,<sv>Hindu<ss>Muslim",0.5,0.0
+221,31fdcc76-5470-4e07-88dd-61afeb952c27,irish <ss> united states <ss> english <ss> Danish <ss> english <ss> Danish <ss> english,households<ss>families<ss>households<ss>families,households<ss>families<sv>households<ss>families,0.0,0.0
+222,b0c0fceb-a514-4688-996e-9535db6e96cb,irish <ss> united states <ss> english <ss> Danish <ss> english <ss> Danish,irish<ss>united states<ss>english<ss>Danish<ss>irish<ss>swedish,irish<ss>united states<ss>english<ss>Danish<sv>irish<ss>united states<ss>english<ss>Danish<ss>irish<ss>swedish,0.67,0.0
+223,1b4d7de3-ce2e-4ef4-a1e8-a37437810c53,irish <ss> united states <ss> english <ss> Danish <ss> english <ss> Danish,irish<ss>united states<ss>english<ss>Danish<ss>swedish<ss>english,irish<ss>united states<ss>english<ss>Danish<sv>irish<ss>united states<ss>english<ss>Danish,0.83,0.0
+224,5e2185df-dd93-4d03-aea1-799f08ff44cd,1906 <ss> 1907 <ss> 1908,1907<ss>1908,1907<ss>1908<sv>1907<ss>1908,0.67,0.0
+225,8a5248d5-a191-4370-953e-bc7ffaa56024,1906 <ss> 1907 <ss> 1908,1905<ss>1904<ss>1906,1906<ss>1905<ss>1904<sv>1899<ss>1900<ss>1901<ss>1902<ss>1903<ss>1904<ss>1905<ss>1906,0.33,0.0
+226,431d7974-400f-45f4-b5bf-4581cb938ae4,Jerricho Cotchery <ss> Mohamed Massaquoi,Jerricho Cotchery<ss>Mohamed Massaquoi<ss>Santonio Holmes,Colt McCoy<ss>Santonio Holmes<ss>Jerricho Cotchery<sv>Jerricho Cotchery<ss>Mohamed Massaquoi<ss>Santonio Holmes,0.67,0.0
+227,452cf334-36f7-4f1f-87cb-a2e241cb9fd2,Phil Dawson <ss> Jerricho Cotchery,Nick Folk<ss>Phil Dawson,Phil Dawson<ss>Nick Folk<sv>Nick Folk<ss>Phil Dawson,0.5,0.0
+228,e92d782f-9cb1-4cfe-8074-bebd50e9551f,Peyton Hillis,Jerricho Cotchery<ss>Peyton Hillis,Jerricho Cotchery<ss>Peyton Hillis<sv>Jerricho Cotchery<ss>Peyton Hillis,0.5,0.0
+229,ffcc13f6-5522-4474-88a1-5358fd6eb74d,Muslim adherents <ss> Buddhists,Buddhists<ss>Hindus,Buddhists<ss>Hindus<sv>Buddhists<ss>Hindus,0.5,0.0
+230,714549e7-b793-4f8f-a923-86b632f50fa5,Muslim <ss> Hindus,Muslims<ss>Mormons,Mormons<ss>Muslims<sv>Muslims<ss>Mormons,0.0,0.0
+231,16662b13-8d04-4171-a0a9-0087fa2cc657,Muslim <ss> Buddhists,Buddhists<ss>Muslims,Muslims<ss>Buddhists<sv>Buddhists<ss>Muslims,0.5,0.0
+232,71d70f05-3841-484f-8cb0-daaf8619c5ae,26 <ss> 28,26<ss>28<ss>22,26<ss>28-yard<ss>22-yard<sv>26<ss>28<ss>22,0.67,0.0
+233,3b1d2481-ea0f-410d-a818-8c234af697b2,Vietnamese,Cantonese<ss>French<ss>Vietnamese,Cantonese<ss>French<ss>Vietnamese<sv>Cantonese<ss>French<ss>Vietnamese,0.33,0.0
+234,2732d0ca-4d8f-4966-9b92-b81c11837ecd,Punjabi <ss> French <ss> Vietnamese <ss> other languages,Hmong-Mien languages<ss>Laotian<ss>Chinese,Chinese<ss>Hmong-Mien<ss>Laotian<sv>Chinese<ss>Hmong-Mien languages<ss>Laotian,0.1,0.0
+235,2927f0d9-dd04-4f19-9856-27789269cf40,Rice <ss> John Taylor,Craig<ss>Montana,Montana<ss>Craig<sv>Montana<ss>Craig,0.0,0.0
+236,909dba4e-87da-4dcb-97b4-31356b108fee,Rice,Montana<ss>Craig,Montana<ss>Rice<ss>Craig<sv>Montana<ss>Rice<ss>Craig,0.33,0.0
+237,6f579268-78fa-4887-84ea-2ee4ba68f8cf,Rice,Craig<ss>Rice<ss>Tom Rathman,Craig<sv>Craig,0.33,0.0
+238,a83a50e0-b46f-4d70-aabc-055f433d3abc,African American <ss> Native American,Asian<ss>Native American,Native American<ss>Asian<sv>Native American<ss>Asian,0.5,0.0
+239,2a24cdac-592a-4c76-b589-e6942525bcf6,African American <ss> Native American,Asian<ss>Native American,Asian<ss>Native American<sv>Native American<ss>Asian,0.5,0.0
+240,6ec2f511-4f46-47b3-8c99-301ba90ccf7d,White <ss> Asian,Native American<ss>Asian,Asian<ss>Native American<sv>Native American<ss>Asian,0.5,0.0
+241,152795cb-158a-42b3-aa02-78568a398749,African American <ss> Native American <ss> Asian,Native American<ss>Asian,Native American<ss>Asian<sv>Native American<ss>Asian,0.67,0.0
+242,0890b283-e99f-4e72-9f01-22e4e2ab6cce,African American <ss> Native American,Asian<ss>Native American,Native American<ss>Asian<sv>Native American<ss>Asian,0.5,0.0
+243,77f91443-c9f3-4a20-b779-ca7e01ed786a,under age 18 <ss> 25 to 44,under age 18<ss>age 45 to 64,under age 18<ss>45 to 64<sv>under age 18<ss>age 45 to 64,0.5,0.0
+244,c6610c4f-f793-49f8-b8fd-1ba168c83050,under age 18 <ss> 25 to 44 <ss> 45 to 64,under age 18<ss>age 25 to 44<ss>age 45 to 64<ss>age 65 or older,under age 18<ss>25 to 44<ss>45 to 64<ss>65 or older.<sv>under age 18<ss>25 to 44<ss>45 to 64<ss>65 or older,0.75,0.0
+245,5d72920d-ed5f-4470-9e6a-b0313f31095b,under age 18 <ss> 25 to 44 <ss> 45 to 64,under age 18<ss>45 to 64,under age 18<ss>45 to 64<sv>under age 18<ss>45 to 64,0.67,0.0
+246,dde62c29-8485-4399-9f49-afdffc73c3c2,18 to 24 <ss> 25 to 44 <ss> 65 or older,18 to 24<ss>65 or older,age 18 to 24<sv>age 18 to 24,0.67,0.0
+247,bdd34ef1-19e4-4baf-b763-0a346e870471,under age 18 <ss> 25 to 44,under age 18<ss>45 to 64,under age 18<ss>age 45 to 64<sv>under age 18<ss>age 45 to 64,0.5,0.0
+248,87c0bfbb-f591-4674-8b4d-7bbbc6d592ca,Germans <ss> English <ss> Irish <ss> United States <ss> Italian,Hispanics<ss>Germans<ss>English<ss>Irish<ss>United States<ss>Italian,Hispanics<ss>Germans<ss>English<ss>Irish<ss>Italian<ss>United States,0.83,0.0
+249,2762894d-d640-4566-ab4c-30d87340a5f0,Germans <ss> English <ss> Irish <ss> United States <ss> Italian,Germans<ss>English<ss>Irish<ss>United States,Germans<ss>English<ss>Irish<ss>United States<sv>Germans<ss>English<ss>Irish<ss>United States,0.8,0.0
+250,0e18b472-38fc-430f-b6bf-85274ccd95dc,United States <ss> Italian <ss> Italian <ss> Italian,United States<ss>Italian<ss>English<ss>Italian,United States<ss>Italian<sv>United States<ss>Italian,0.75,0.0
+251,71fed6bf-24d1-457d-876d-c44c99320bef,22-yard <ss> 23-yard <ss> Nick Folk,22-yard<ss>35-yard,22-yard<ss>23-yard<sv>22-yard<ss>35-yard,0.67,0.0
+252,7c6366d9-0ab2-49d0-b069-91a4da1115b5,Isaac Bruce <ss> DeShaun Foster,Tony Romo<ss>Shaun Hill,Terrell Owens<ss>Isaac Bruce<sv>Tony Romo<ss>Shaun Hill,0.5,0.0
+253,c0f3de09-ecc1-4471-b8d0-5cbc86d14efe,Nick Folk,Nick Folk<ss>Joe Nedney,Nick Folk<ss>Nedney<sv>Nick Folk<ss>Joe Nedney,0.5,0.0
+254,7b11a1bd-8aa4-403e-8522-41fc80129956,22-yard <ss> 23-yard <ss> Nick Folk,22-yard<ss>35-yard<ss>Shaun Hill<ss>Joe Nedney<ss>Nick Folk,22-yard<ss>35-yard<sv>22-yard<ss>35-yard<ss>Shaun Hill<ss>Joe Nedney<ss>Nick Folk,0.4,0.0
+255,ab6399ed-91d4-4163-a39d-90850ddec9cc,23-yard <ss> 22-yard,41-yard<ss>48-yard,48-yard and a 41-yard<sv>48-yard<ss>41-yard,0.0,0.0
+256,07f25a86-71a4-4cf7-89f2-f3efc200e3c2,two incorporated municipalities <ss> Green Party,Democratic<ss>Republican<ss>American Independent<ss>Green Party,Democratic<ss>Republican<ss>American Independent<ss>Green Party<sv>Democratic<ss>Republican<ss>American Independent<ss>Green Party,0.25,0.0
+257,02f29c03-9a5f-418e-84f9-cf714ae07e10,registered Democratic <ss> American Independent,American Independent<ss>Republican<ss>Democratic,American Independent<ss>Republican<ss>Democratic<sv>American Independent<ss>Republican<ss>Democratic,0.56,0.0
+258,98f8ed5f-7505-4f7f-9fcf-5d627d6a0e1b,Republican <ss> Green Party,American Independent<ss>Green Party,American Independent<ss>Green Party<sv>American Independent<ss>Green Party,0.5,0.0
+259,cad81db5-2b73-459b-9cd2-afb1f45de23e,White <ss> African American,White<ss>Latinos,Latinos<ss>Germans,0.5,0.0
+260,f8e879c0-c4d0-4565-8b85-c49b54dbaeb0,Italians <ss> American,English<ss>Irish,Irish<ss>English<sv>English<ss>Irish,0.0,0.0
+261,4462cafc-a479-4df2-ab37-83a25c0746c0,Asian <ss> Native American <ss> Pacific Islander,African American<ss>Asian<ss>Native American,Native American<ss>African American<ss>Asian<sv>African American<ss>Asian<ss>Native American,0.67,0.0
+262,648a9964-d741-4db1-b53a-2f6ec8ff1b7d,"public transportation <ss> walked <ss> taxicab, motorcycle, and bicycle",public transportation<ss>walked<ss>taxicab<ss>motorcycle<ss>bicycle,public transportation<ss>walked<ss>other forms of transportation<sv>public transportation<ss>walked<ss>taxicab<ss>motorcycle<ss>bicycle,0.67,0.0
+263,664a70b4-cb10-481d-b16d-c1e322d3385f,taxicab <ss> motorcycle <ss> bicycle,driving alone<ss>carpooled<ss>public transportation<ss>walked<ss>all other forms of transportation,driving alone<ss>carpooled<ss>public transportation<ss>walked<ss>other forms of transportation<sv>driving alone<ss>carpooled<ss>public transportation<ss>walked<ss>all other forms of transportation,0.0,0.0
+264,27fd1012-a11c-4b11-acc9-8f0d68091b5a,"taxicab, motorcycle, and bicycle",driving alone<ss>carpooled,driving alone<ss>carpooled<sv>driving alone<ss>carpooled,0.0,0.0
+265,063a4c5c-9dd4-4b31-b3ea-bf91b418e84f,taxicab <ss> motorcycle <ss> bicycle,driving alone<ss>carpooled<ss>walked,driving alone<ss>carpooled<ss>walked<sv>driving alone<ss>carpooled<ss>walked,0.0,0.0
+266,b344fa95-358a-40cb-9678-7d1d1d0c281f,public transportation <ss> walked,"taxicab, motorcycle, and bicycle<ss>public transportation",all other forms of transportation<ss>public transportation<sv>public transportation<ss>all other forms of transportation,0.5,0.0
+267,0ffb346d-c23c-4018-b68b-84b39eb99677,French <ss> French <ss> First Nations,Norwegian<ss>Polish,Norwegian people<ss>Polish people<sv>Norwegian<ss>Polish,0.0,0.0
+268,5cc93449-2d02-4e19-842e-8fa2baceb3a3,Irish <ss> French <ss> First Nations,Scottish<ss>Canadian<ss>Irish,Scottish people<ss>Canadian<ss>Irish people<sv>Scottish<ss>Canadian<ss>Irish,0.33,0.0
+269,d43e8ccd-f060-4a4b-8277-d9ea3cb9abf2,Jeff Reed <ss> Dan Carpenter,Jeff Reed<ss>Carpenter,Jeff Reed<ss>Carpenter<sv>Jeff Reed<ss>Carpenter,0.83,0.0
+270,83f35c69-bcbb-41f4-8dfc-ef388d9d2679,under the age of 18 <ss> 25 to 44,under the age of 18<ss>45 to 64,under the age of 18<ss>45 to 64<sv>under the age of 18<ss>45 to 64,0.5,0.0
+271,208eff0e-b7f0-4796-8892-f528bbeb62a5,under the age of 18 <ss> 25 to 44,65 years of age<ss>25 to 44<ss>25 to 44<ss>45 to 64,25 to 44<ss>65 years of age<sv>65 years of age<ss>25 to 44<ss>25 to 44<ss>45 to 64,0.5,0.0
+272,ea0110de-d804-412e-876d-478670848c87,North America <ss> Europe,Europe<ss>South America,Europe<ss>South America<sv>South America<ss>Europe,0.75,0.0
+273,7bacc84e-bedf-4c67-8b9c-d06afec02c88,mobile games <ss> retail games <ss> social games <ss> PC Downloadable content,free-to-play Massively multiplayer<ss>social games<ss>PC Downloadable content,PC Downloadable content<sv>Massively multiplayer online game,0.5,0.0
+274,a733b2cc-1a86-46e4-bf6d-987e994f3ddb,10 and 19,between 20 and 29<ss>between 20 and 49,between 20 and 29<sv>between 20 and 29<ss>between 20 and 49,0.0,0.0
+275,3410ffc5-8ce8-4827-a46a-a4e65efc0873,between 20 and 29 <ss> between 40 and 49 <ss> between 40 and 59,between 10 and 19<ss>between 20 and 29<ss>between 30 and 39<ss>between 40 and 49<ss>between 50 and 59,10 and 19<ss>20 and 29<ss>30 and 39<ss>40 and 49<ss>50 and 59<sv>10 and 19<ss>20 and 29<ss>30 and 39<ss>40 and 49<ss>50 and 59,0.55,0.0
+276,fa562801-16fd-4ac5-91cd-c2590286f835,10 and 19 <ss> 50 and 59,between 70 and 79<ss>80 and 89<ss>90 and older,70 and 79<ss>80 and 89<ss>90 and older<sv>70 and 79<ss>80 and 89<ss>90 and older,0.0,0.0
+277,08b77000-467e-4ba1-a810-ca205cb81f6c,between 60 and 69,teenagers<ss>adult,adults<sv>teenagers<ss>adult,0.0,0.0
+278,ddb04730-1656-4d56-bc4b-b3be9b469baf,31,31<ss>30,61<sv>31<ss>30,0.5,0.0
+279,bb147fc1-6a5f-45ca-8a91-0fe19d715e01,10,10<ss>17,27<sv>10<ss>17,0.5,0.0
+280,d19348e8-58f7-44ec-9f86-dfc938350743,Algerian War of Independence <ss> Six-Day War by Israel,First Indochina War<ss>the Algerian War of Independence,First Indochina War<ss>Algerian War of Independence<sv>the First Indochina War<ss>the Algerian War of Independence,0.62,0.0
+281,92ae64d4-f6c5-44d9-9fc7-16d39d9f239d,the Six-Day War <ss> by Israel,the Portuguese Colonial War<ss>the Six-Day War by Israel,Portuguese Colonial War<ss>Six-Day War by Israel<sv>Portuguese Colonial War<ss>Six-Day War by Israel,0.45,0.0
+282,d018b812-8f3a-439f-a29a-6f7e8da8033a,First Indochina War <ss> Algerian War of Independence <ss> Six-Day War,First Indochina War<ss>Algerian War of Independence<ss>Portuguese Colonial War,First Indochina War<ss>Algerian War of Independence<ss>Portuguese Colonial War<sv>First Indochina War<ss>Algerian War of Independence<ss>Portuguese Colonial War,0.78,0.0
+283,c922fea1-39a7-4383-b083-5e38e7d38029,Iraq <ss> Iran <ss> Angola,Iran<ss>Iraq,Argentina<ss>Iran<ss>Iraq<sv>Iran<ss>Iraq,0.67,0.0
+284,5561686b-5323-4a72-9a9b-80bbbdf10266,Algerian War of Independence <ss> Six-Day War by Israel,Algerian War of Independence<ss>Portuguese Colonial War,the Algerian War of Independence<ss>the Portuguese Colonial War<sv>Algerian War of Independence<ss>Portuguese Colonial War,0.62,0.0
+285,6b43e8a2-a69b-4b56-bea0-9a90a22b2624,the Six-Day War <ss> by Israel,Portuguese Colonial War<ss>Six-Day War,Portuguese Colonial War<ss>Six-Day War by Israel<sv>Portuguese Colonial War<ss>Six-Day War,0.5,0.0
+286,a825f92d-3046-4822-b583-32e33957ece3,Portuguese Colonial War <ss> Six-Day War,he Algerian War of Independence<ss>he Portuguese Colonial War,Algerian War of Independence<ss>Portuguese Colonial War<sv>he Algerian War of Independence<ss>he Portuguese Colonial War,0.64,0.0
+287,12a6467b-242d-4052-a104-9ebb886bb739,White <ss> African American,White<ss>Hispanic or Latino,White<ss>Hispanic or Latino<sv>White<ss>Hispanic or Latino,0.5,0.0
+288,97b4ac7a-d0f5-4028-9e45-5a1c00a36c5b,Native American <ss> Pacific Islander <ss> other races <ss> households <ss> families,Native American<ss>Asian<ss>Pacific Islander<ss>two or more races<ss>two or more races<ss>Asian,Native American<ss>Asian<ss>Pacific Islander<ss>from two or more races<sv>Native American<ss>Asian<ss>Pacific Islander<ss>two or more races,0.47,0.0
+289,b46de4d7-0e58-4dac-b1c0-2deaba0defa8,60 and 69 years old <ss> 70 to 79 <ss> 60 and 69 years old <ss> 15 people <ss> 80 to 89,60 and 69<ss>70 to 79<ss>80 to 89<ss>90 to 99,60 and 69 years old<ss>70 to 79<ss>80 to 89<ss>90 to 99<sv>between 60 and 69<ss>80 to 89<ss>90 to 99,0.6,0.0
+290,fa10c341-efbd-46b1-b1e2-a555244e68c3,Barack Obama <ss> Al Gore,Barack Obama<ss>George W. Bush,Barack Obama<ss>George W. Bush<sv>Barack Obama<ss>George W. Bush,0.5,0.0
+291,113961e7-8809-4612-97fc-f2d5f39697fd,Barack Obama,Barack Obama<ss>George W. Bush,Barack Obama<ss>George W. Bush<sv>Barack Obama<ss>George W. Bush,0.5,0.0
+292,4e1c200c-dd6b-4515-99a6-96e23453a1f4,Barack Obama <ss> John McCain,Donald Trump<ss>George W. Bush,Donald Trump<sv>Donald Trump<ss>George W. Bush,0.0,0.0
+293,58d1fc14-a962-45aa-a490-bec00bd52089,John McCain <ss> Al Gore,Hillary Clinton<ss>John Kerry<ss>Al Gore,Hillary Clinton<ss>John Kerry<ss>Al Gore,0.5,0.0
+294,fea934fd-f8ad-4d33-b1bc-7744f8ef10fb,18 to 24,18 to 24<ss>25 and older<ss>between 25 and 64,under the age of 18<sv>18 to 24<ss>25 and older<ss>between 25 and 64,0.33,0.0
+295,00bc3643-9015-4c17-b575-26b36fa0b51b,under the age of 18 <ss> 25 to 44 <ss> 45 to 64,under the age of 18<ss>25 to 44,under the age of 18<ss>25 to 44,0.67,0.0
+296,8d0ec4b4-f6b0-4fc2-95b1-402a851f812f,Puerto Rican <ss> Mexican,Puerto Rican<ss>Dominican,Puerto Rican<ss>Dominican<sv>Puerto Rican<ss>Dominican,0.5,0.0
+297,6ae2d40e-f37e-4a05-a99d-90f0fff26332,White <ss> African American <ss> Vietnamese <ss> Chinese <ss> Cambodian <ss> Filipino <ss> Filipino <ss> Spanish <ss> Spanish,White<ss>African American<ss>American Indian<ss>African American,White<ss>African American<ss>Hispanic and Latino Americans<sv>White<ss>African American<ss>American Indian<ss>African American,0.22,0.0
+298,287502fc-e97f-41e3-ac1b-d17ab1981e5b,White American,White Americans<ss>Dominicans<ss>Mexicans,51.8% White American<sv>White Americans<ss>Dominicans<ss>Mexicans,0.17,0.0
+299,a308efbb-8383-49c1-ae58-d323c783c649,Cambodian <ss> Filipino <ss> Pakistani,Cambodian<ss>Filipino<ss>Korean<ss>Pakistani<ss>Laotian,0.1% Cambodian<ss>0.1% Filipino<ss>0.1% Korean<ss>0.1% Pakistani<ss>0.1% Laotian<sv>Cambodian<ss>Filipino<ss>Korean<ss>Pakistani<ss>Laotian,0.6,0.0
+300,99c10414-055c-46cb-8e98-a8a1e8cd51e6,Puerto Rican <ss> Mexican,Puerto Rican<ss>Dominican,33.2% Puerto Rican<ss>1.7% Dominican<sv>Puerto Rican<ss>Dominican,0.5,0.0
+301,6aad103e-2e58-4789-b1f1-eef700607124,Colombian <ss> Peruvian <ss> Peruvian <ss> Ecuadorian <ss> Honduran <ss> Vietnamese,Colombian<ss>Spanish<ss>Salvadoran,Cuban<ss>Colombian<ss>Spanish<ss>Salvadoran<sv>Colombian<ss>Spanish<ss>Salvadoran,0.17,0.0
+302,ee132685-eb25-45d5-99c5-5728a71ad841,Cambodian <ss> Filipino <ss> Pakistani,Peruvian<ss>Ecuadorian<ss>Panamanian<ss>Costa Rican<ss>Honduran,Peruvian<ss>Ecuadorian<ss>Panamanian<ss>Costa Rican<ss>Honduran<sv>Peruvian<ss>Ecuadorian<ss>Panamanian<ss>Costa Rican<ss>Honduran,0.0,0.0
+303,dc62e06c-7f3d-4957-93da-85d09525c7b9,42-yard <ss> 29-yard,25-yard<ss>8-yard<ss>29 yards,25-yard<ss>8-yard<ss>29-yard<sv>25-yard<ss>8-yard<ss>29 yards,0.33,0.0
+304,6639ffe0-acdd-40cc-a6f5-081c6e09df04,8-yard <ss> 17-yard,8-yard<ss>7-yard,7-yard<ss>8-yard<sv>8-yard<ss>7-yard,0.5,0.0
+305,14369338-4266-4bf9-9a1c-52ff402a6e27,California <ss> New York,Hawaii<ss>California<ss>New York,California<ss>New York<ss>Hawaii<sv>Hawaii<ss>California<ss>New York,0.67,0.0
+306,44489aa3-e718-4603-aaf0-25cc59014516,New York <ss> Massachusetts,Virginia<ss>Ohio,"Virginia (59,800; 0.7%)<ss>Ohio (51,033; 0.5%)<ss>Hawaii<sv>Virginia<ss>Ohio",0.0,0.0
+307,8bf7aa51-610b-4f88-b039-b4bd4af72f22,adult population <ss> adult population <ss> senior population,between 0 and 9<ss>between 60 and 69,0 and 9 years old<ss>60 and 69 years old<sv>between 0 and 9<ss>between 60 and 69,0.0,0.0
+308,799246c9-454c-46f4-873f-54c28eadadf5,adult population <ss> adult population,between 20 and 29<ss>between 30 and 39,20 and 29 years old<ss>30 and 39<sv>between 20 and 29<ss>between 30 and 39,0.0,0.0
+309,207879d3-9b35-42cd-8de0-1dcb853d95e0,teenagers <ss> adult population,between 40 and 49<ss>between 50 and 59,40 and 49<ss>50 and 59<sv>between 40 and 49<ss>between 50 and 59,0.0,0.0
+310,eb1cf33e-6dba-447f-946c-7de2e73e0be4,mung bean <ss> soy <ss> guinea pigs,Cattle<ss>wild boar,pigs<sv>Cattle<ss>wild boar,0.22,0.0
+311,04159cf4-0410-4d20-99a2-01931a653af7,Peru and Eurasia,Peru<ss>Eurasia,Peru<ss>Eurasia<sv>Peru<ss>Eurasia,0.25,0.0
+312,d55fe6ce-2eb9-4440-b714-6a81f51a9309,Stabler <ss> Colzie <ss> Tarkenton,Stabler<ss>Casper<ss>Tarkenton<ss>White,Casper<ss>Tarkenton<ss>White<sv>Stabler<ss>Casper<ss>Tarkenton<ss>White,0.5,0.0
+313,189c7f8f-7a06-4106-b907-90a3fe530228,Campeche <ss> Nuevo León,Federal District<ss>Nuevo León,Federal District<sv>Federal District<ss>Nuevo León,0.5,0.0
+314,de295075-849a-4746-870c-e318f9fc9aaf,Brett Favre <ss> Robert Brooks,Antonio Freeman<ss>Robert Brooks,Favre<ss>Antonio Freeman<ss>Robert Brooks<ss>Dorsey Levens<sv>Antonio Freeman<ss>Robert Brooks,0.5,0.0
+315,18cf5839-df00-44da-93ad-cddb3bbbe15c,1972 <ss> 1984,1972<ss>1979,1974<ss>1975<ss>1968<sv>1972<ss>1979,0.5,0.0
+316,a8410299-60c5-4288-b644-315829df80d3,Alka-Seltzer US Open <ss> Competitive Eating <ss> Glutton Bowl,2005 Alka-Seltzer US Open<ss>Glutton Bowl,2005 Alka-Seltzer US Open<ss>Glutton Bowl<sv>2005 Alka-Seltzer US Open<ss>Glutton Bowl,0.33,0.0
+317,55525d30-2775-4e5e-8dab-8342ba9f9c62,Asians <ss> Hispanics <ss> Blacks and others,Non-Hispanic Whites<ss>Blacks,Non-Hispanic Whites<ss>Blacks and others<sv>Non-Hispanic Whites<ss>Blacks,0.33,0.0
+318,7ddb306e-1892-464d-87aa-e39013a3a5f0,Asians <ss> Blacks and others,Non-Hispanic Whites<ss>Blacks,Non-Hispanic Whites<ss>Blacks and others<sv>Non-Hispanic Whites<ss>Blacks,0.5,0.0
+319,3813909f-8aea-4c06-aa63-9afe52dbc56a,Blacks and others <ss> American Indians <ss> Asians,Asians<ss>American Indians,Asians<ss>American Indians<ss>American Indians<sv>Asians<ss>American Indians,0.67,0.0
+320,577f6455-f3df-49c1-998d-1d1c2e0ec8a5,works <ss> Molloy <ss> Waiting for Godot,Molloy<ss>Waiting for Godot<ss>Happy Days<ss>Rockaby,Molloy<ss>Waiting for Godot<ss>Happy Days<ss>Rockaby,0.5,0.0
+321,cee5ccca-e864-4a7f-88aa-0fee49bd9060,three battalions of infantry <ss> regiment of Centurion tanks <ss> RAAF Squadrons <ss> batteries of Royal Australian Artillery <ss> Special Air Service Regiment,battalions<ss>regiment<ss>Squadrons<ss>batteries,infantry<ss>Centurion tanks<ss>RAAF Squadrons<ss>Royal Australian Artillery<ss>Special Air Service Regiment<sv>battalions<ss>regiment<ss>Squadrons<ss>batteries,0.76,0.0
+322,5303ba79-40ed-4f28-82a3-13a694f829ef,Australian Government Nominal Roll <ss> Royal Australian Air Force,Royal Australian Navy<ss>Australian Army<ss>Royal Australian Air Force,Royal Australian Navy<ss>Australian Army<ss>Royal Australian Air Force,0.44,0.0
+323,37e3344c-9e25-45aa-9695-67cd72d0f647,14178 <ss> 18 September 1941,Jews<ss>partisans<ss>Red Army soldiers,Jews<ss>partisans<ss>Red Army soldiers<sv>Jews<ss>partisans<ss>Red Army soldiers,0.0,0.0
+324,51c1b08e-63fe-46bc-b232-29f8ca1e9372,Bulgarian citizens <ss> Pakistani citizens,Romanian<ss>Pakistani,Pakistani citizens<ss>Romanian citizenship<sv>Romanian<ss>Pakistani,0.5,0.0
+325,0f949415-faff-436b-98a1-6ef377779cf3,18 to 24 <ss> 45 to 64,18 to 24<ss>45 to 64<ss>65 years of age,18 to 24<ss>45 to 64<ss>65 years of age<sv>18 to 24<ss>45 to 64<ss>65 years of age,0.67,0.0
+326,5ed90724-83af-4f6c-a3c0-ae62e482465a,under the age of 18 <ss> 18 to 24 <ss> 25 to 44 <ss> 45 to 64,under the age of 18<ss>25 to 44,under the age of 18<ss>25 to 44<sv>under the age of 18<ss>25 to 44,0.5,0.0
+327,5c5292e5-45fa-4661-bd2f-730f835da211,Restoration Charles II,James II<ss>William III,James II of England<ss>William III<sv>James II<ss>William III,0.2,0.0
+328,a1bf88c4-bbf9-4835-8d45-2b437c925a3b,339 <ss> World Cups <ss> Champions Trophies <ss> Asian Games,World Cup<ss>Asian Games<ss>Champions Trophies,World Cups<ss>Champions Trophies<ss>Asian Games<sv>World Cup<ss>Asian Games<ss>Champions Trophies,0.75,0.0
+329,6c74d56c-721e-49a4-85a8-a0da63071b73,1990 <ss> 1994 <ss> 1998 <ss> 1998,1990<ss>1994<ss>1998<ss>2002,1990<ss>1994<ss>1998<ss>2002<sv>1990<ss>1994<ss>1998<ss>2002,0.75,0.0
+330,82166349-9af1-4d86-8e83-14e2f2b6c79b,Petry <ss>  ⁇ zdemir,Gabriel<ss>Schulz<ss>Özdemir<ss>Wagenknecht,Gabriel<ss>Schulz<ss>Özdemir<ss>Wagenknecht<sv>Gabriel<ss>Schulz<ss>Özdemir<ss>Wagenknecht,0.0,0.0
+331,defe22ce-e081-435e-afa6-f9fb8932fba2,manufacturing <ss> mining <ss> construction,manufacturing<ss>construction,manufacturing<ss>construction<sv>manufacturing<ss>construction,0.67,0.0
+332,40106f12-5a41-4579-8ffb-9e7635adec83,construction <ss> movement and storage of goods <ss> hotel or restaurant <ss> information industry <ss> insurance or financial industry <ss> technical professionals or scientists <ss> education <ss> health care,movement and storage of goods<ss>technical professionals or scientists<ss>education,technical professionals or scientists<ss>movement and storage of goods<sv>movement and storage of goods<ss>technical professionals or scientists<ss>education,0.38,0.0
+333,a7fdd75d-4156-4750-831c-1ab5b97d0f2e,liposuction <ss> breast reduction <ss> eyelid surgery <ss> abdominoplasty,liposuction<ss>eyelid surgery<ss>abdominoplasty,liposuction<ss>eyelid surgery<ss>abdominoplasty<sv>liposuction<ss>eyelid surgery<ss>abdominoplasty,0.75,0.0
+334,d8feab31-de48-46af-aadb-601dbc79fa31,2-yard <ss> 4-yard <ss> David Garrard,2-yard<ss>4-yard,a 2-yard TD pass<ss>a 4-yard TD pass<sv>2-yard<ss>4-yard,0.67,0.0
+335,0e8fc4e1-5a46-47bd-8083-ce57612406cb,Desmond Clark <ss> Maurice Jones-Drew,Desmond Clark<ss>Greg Olsen,Greg Olsen<sv>Desmond Clark<ss>Greg Olsen,0.5,0.0
+336,d2c73134-f543-4f5e-ad3a-2285b64d7155,1569,1553<ss>1569,1553<sv>1553<ss>1569,0.5,0.0
+337,93dc2652-3c84-44a9-92bb-359c3d2db6a5,Sega Master Systems <ss> Nintendos,Segas<ss>7800,Atari 7800<ss>Sega Master Systems<sv>Segas<ss>7800,0.5,0.0
+338,4e1ad432-2bfc-4804-90b0-6a5ca278cd22,2017 <ss> 2016,2018<ss>2016,2018<ss>2016<sv>2018<ss>2016,0.5,0.0
+339,f3261fe6-06b9-4ec4-aa2d-da7cf72d9243,The Times Higher Education <ss> The Times Higher Education <ss> The Times Higher Education <ss> Sustainability <ss> Law <ss> Business and Economics,Times Higher Education World University<ss>ARWU<ss>CWTS Leiden,CWTS<ss>ARWU<ss>The Times<sv>Times Higher Education World University<ss>ARWU<ss>CWTS Leiden,0.12,0.0
+340,bbf5bfef-2cb9-4c7d-b7a9-dd73e5807753,Tagalog <ss> Japanese,African<ss>Japanese,Japanese<ss>African languages<sv>African<ss>Japanese,0.5,0.0
+341,6d4578ce-4d7c-435d-9328-05e10b91b3be,Vietnamese <ss> Korean <ss> Arabic,German<ss>Vietnamese,German<ss>Vietnamese<sv>German<ss>Vietnamese,0.33,0.0
+342,96bd2e17-faec-40ee-8018-2d0747a17863,Arabic <ss> Japanese,Japanese<ss>African languages,Japanese<ss>African languages<sv>Japanese<ss>African languages,0.5,0.0
+343,ca1f3891-bb6a-48e9-9eb7-1112da79169c,Vietnamese <ss> English,German<ss>Vietnamese,German<ss>Vietnamese<sv>German<ss>Vietnamese,0.5,0.0
+344,13a26b56-43c9-4f3c-b177-f56e13bca63b,Tagalog <ss> Japanese <ss> African,Tagalog<ss>Japanese<ss>African languages,Tagalog<ss>Japanese<ss>African languages<sv>Tagalog<ss>Japanese<ss>African languages,0.89,0.0
+345,31f27624-14d1-44fe-9892-b260cbacd971,Maj. Gen. Robert W. Grow <ss> General Carlos Brewer,Brigadier General Carlos Brewer<ss>Maj. Gen. Robert W. Grow,Brigadier General Carlos Brewer<ss>Maj. Gen. Robert W. Grow<sv>Brigadier General Carlos Brewer<ss>Maj. Gen. Robert W. Grow,0.93,0.0
+346,6cccc9a6-c1e4-422e-86b2-de466018985c,Europe <ss> the United States,"Union Bank of Switzerland, Bern<ss>Institut Arbeit<ss>Hamburger Bahnhof","Union Bank of Switzerland, Bern<ss>Institut Arbeit<ss>Hamburger Bahnhof<sv>Union Bank of Switzerland, Bern<ss>Institut Arbeit<ss>Hamburger Bahnhof",0.0,0.0
+347,cf131c94-82e8-4b5e-8f63-b4e34cd79be3,Walkertons system <ss> Walkertons water,5<ss>6,Well 5<ss>Well 6<sv>5<ss>6,0.0,0.0
+348,e916c2af-e483-48cf-97f9-6140d107eb94,4-yard <ss> 36-yard,4-yard<ss>49-yard,53<sv>4-yard<ss>49-yard,0.5,0.0
+349,39fc7ab6-0041-4d8b-9121-ca234dbb6bb2,28 <ss> 37 yards <ss> 26-yard,28 and 37 yards<ss>26-yard,28<ss>37<ss>26-yard<sv>28 and 37 yards<ss>26-yard,0.89,0.0
+350,37855d52-5584-40cd-9374-862d2cabdf7a,oil crisis,1973<ss>1979,1973<ss>1979<sv>1973<ss>1979,0.0,0.0
+351,1098b648-abb4-4ab4-be17-2584c2f832ea,2000 <ss> 2004,2003<ss>2004<ss>2005,2003<ss>2004<ss>2005<sv>2003<ss>2004<ss>2005,0.33,0.0
+352,8e4a4da4-17b9-4b33-9cf8-3c17bb52603f,1980 <ss> 1994 <ss> 2007,1993 to 1994<ss>1995,1993<ss>1994<ss>1995<sv>1993 to 1994<ss>1995,0.33,0.0
+353,da82ac4b-8c49-4332-a6aa-5c7fca99f61e,Vikings <ss> Atlanta Falcons,Philadelphia Eagles<ss>New England Patriots,the Philadelphia Eagles<ss>the New England Patriots<sv>Philadelphia Eagles<ss>New England Patriots,0.0,0.0
+354,8e81ea5e-da45-4c49-b72d-bf3b345960b8,2014,"November 18<ss>January 12, 2014<ss>January 18, 2015","November 18<ss>January 12, 2014<ss>January 18, 2015<sv>November 18<ss>January 12, 2014<ss>January 18, 2015",0.17,0.0
+355,b6d652ec-8b25-446e-b1dd-e7da20a22a74,agriculture <ss> services,industry<ss>services,industry<ss>services<sv>industry<ss>services,0.5,0.0
+356,62bf9785-191f-4f88-8738-6a7d2e7e2184,Libya <ss> U.S.A.,Germany<ss>Spain<ss>Libya<ss>U.S.A,Germany<ss>Spain<ss>Libya<ss>U.S.A<sv>Germany<ss>Spain<ss>Libya<ss>U.S.A,0.5,0.0
+357,3ae4251e-8fde-49d9-84b1-bb0ec5c57c2a,France <ss> Italy <ss> Germany <ss> Spain <ss> Libya,Italy<ss>France,France<ss>Italy<sv>Italy<ss>France,0.4,0.0
+358,401be1e9-c029-4d74-b2d5-b992da8eb935,France <ss> Italy <ss> Germany <ss> Spain <ss> U.S.A.,France<ss>Italy,France<ss>Italy<sv>France<ss>Italy,0.4,0.0
+359,6bf6e431-0cbe-4394-ac5d-bd714184c85c,Romania <ss> France <ss> Italy <ss> Czech Republic,Romania<ss>Slovakia<ss>France<ss>Italy,Italy<ss>Slovakia<ss>Romania<ss>France<sv>Romania<ss>Slovakia<ss>France<ss>Italy,0.75,0.0
+360,a0ec8f5a-4fcd-4884-a326-0fa58a560d61,Humvees <ss> ECV <ss> JLTVs,A2 series Humvees<ss>ECV Humvees<ss>JLTVs,A2 series Humvees<ss>ECV Humvees<ss>JLTVs<sv>A2 series Humvees<ss>ECV Humvees<ss>JLTVs,0.72,0.0
+361,d1ef042c-4bf5-4877-b330-dce16939ca18,Melba <ss> Wilder,Notus<ss>Greenleaf<ss>Wilder,Wilder<ss>Star<ss>Melba<ss>Notus<ss>Greenleaf<sv>Notus<ss>Greenleaf<ss>Wilder,0.4,0.0
+362,56773580-028c-4ddd-90f9-2a67a211d7ae,The Honeymooners <ss> Gunsmoke,Ozzie and Harriet<ss>Father Knows Best<ss>I Love Lucy<ss>The Life of Riley<ss>The Honeymooners<ss>The Adventures of Robin Hood<ss>Gunsmoke<ss>Maverick,8<sv>Ozzie and Harriet<ss>Father Knows Best<ss>I Love Lucy<ss>The Life of Riley<ss>The Honeymooners<ss>The Adventures of Robin Hood<ss>Gunsmoke<ss>Maverick,0.25,0.0
+363,41ed8005-c4f9-4380-9f05-65eac015ba1b,Evansville Triplets <ss> Evansville River Rats,Evansville River Rats<ss>Evas/Pocketeers/Hubs,The Evansville River Rats<ss>Evas/Pocketeers/Hubs<sv>Evansville River Rats<ss>Evas/Pocketeers/Hubs,0.5,0.0
+364,ae089c94-9de5-4ae0-9b2e-c71c9c6d597c,Lichfield <ss> Lichfield,London<ss>Lichfield,St Georges<ss>Hanover Square<ss>London<ss>Staffordshire<ss>Lichfield<sv>London<ss>Lichfield,0.5,0.0
+365,0635fcd8-190d-4b18-98df-1add5bda995e,Austria <ss> Ireland <ss> Sweden <ss> Switzerland,U.K.<ss>Germany<ss>Austria<ss>Ireland<ss>Netherlands<ss>Sweden<ss>Switzerland,"U.K<ss>Germany<ss>Austria, Ireland, the Netherlands, Sweden<ss>Switzerland<sv>U.K.<ss>Germany<ss>Austria<ss>Ireland<ss>Netherlands<ss>Sweden<ss>Switzerland",0.57,0.0
+366,b8d54267-0930-4b88-97de-d1d742167c28,1987 s <ss> 1992 s,1999<ss>1987<ss>1992,1999<ss>1987<ss>1992<sv>1999<ss>1987<ss>1992,0.44,0.0
+367,cf56b518-e56b-4a82-b477-ef397ccda620,Holly Hallstrom <ss> Rachel Reynolds,Pennington<ss>Bradley,Janice Pennington<ss>Kathleen Bradley<sv>Pennington<ss>Bradley,0.0,0.0
+368,c55338ec-1673-491e-ba29-f8ecd94c7a5f,Barber Beauties <ss> Manuela Arbeláez,Robert Scott Wilson<ss>James OHalloran,James OHalloran<ss>Robert Scott Wilson<sv>Robert Scott Wilson<ss>James OHalloran,0.0,0.0
+369,9f1d54cd-4deb-4f8e-817c-91117f8828f4,Kathleen Bradley <ss> Dian Parkinson <ss> Janice Pennington,Janice Pennington<ss>Dian Parkinson<ss>Holly Hallstrom,Janice Pennington<ss>Dian Parkinson<ss>Holly Hallstrom<sv>Janice Pennington<ss>Dian Parkinson<ss>Holly Hallstrom,0.67,0.0
+370,248470fb-3c8c-4d42-987b-03b6bf9c2645, ⁇ uck Ghetto <ss> Kamianets-Podilskyi <ss> Wannsee <ss> Dnipropetrovsk <ss> Chernihiv,Soviet Union<ss>Dnipropetrovsk<ss>Chernihiv,Dnipropetrovsk<sv>Soviet Union<ss>Dnipropetrovsk<ss>Chernihiv,0.4,0.0
+371,c10d80b0-2a61-47eb-96fd-98e1f90c4100,critical reading <ss> writing,critical reading<ss>math,reading<ss>math<sv>critical reading<ss>math,0.5,0.0
+372,848d08b4-0e97-4c7a-8504-9d1a881a86c9,BSR Housewares <ss> West Bromwich Building Society <ss> T-Mobile,1993–94 season<ss>2008–09,"1981–82 season 1993–94 season,<sv>1993–94 season<ss>2008–09",0.0,0.0
+373,9f89bba6-c095-4c2b-bcf7-9e6f05c38158,2010 <ss> 4 th quarter,2008<ss>1998,2010<ss>1998<sv>2008<ss>1998,0.5,0.0

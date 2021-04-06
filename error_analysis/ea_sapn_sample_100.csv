@@ -1,0 +1,101 @@
+,query_id,prediction,answer,validated_answers,f1,exact_match
+361,fad839fe-6bdf-49c0-b104-6392d17a12b5,taking intransigent negotiating stances,Russian Revolution of 1905,Russian Revolution<sv>Russian Revolution of 1905,0.0,0.0
+392,fca7116f-43b4-4fb3-95b9-350f39057dfa,Chiefs,Bears,Bears<sv>Bears,0.0,0.0
+312,c438c440-274e-4cf2-aafb-520bfb23f40b,Spanish,Acalan,native populations<sv>Acalan<sv>Acalan,0.0,0.0
+322,01521a1d-a116-4b99-90c0-913d2f7e86be,Bengals,Bears,the Bears<sv>Bears,0.0,0.0
+689,2f3a94a3-0b3a-4a3f-a1bd-a061a57cc1ae,Howes,Howe,Howe<sv>Howe,0.0,0.0
+966,0bfd419d-ce31-4656-b729-e90a74ea77dc,under the age of 18,under 18,under 18,0.67,0.0
+436,9c9f2201-d696-4207-b44e-196b717abd72,anti-treaty and pro-treaty forces,political parties,two largest political parties<sv>political parties<sv>political parties<sv>political parties,0.0,0.0
+165,77897dc3-cd74-4624-bedb-810f1c7f6b71,1 to 10,crown introduced to Czechslovakia,19<sv>crown was introduced<sv>crown was introduced,0.29,0.0
+552,65683a61-f053-4a15-b385-077479a7329e,Terry Venables,Alan Sugar,Alan Sugar<sv>Alan Sugar<sv>Alan Sugar,0.0,0.0
+152,0420a4f4-fc96-4436-a6c7-fc799f0f6acd,Tamil,Telugu,Telugu language<sv>Telugu,0.0,0.0
+623,9432f147-fed2-4655-8448-11df40f82759,Yancey Thigpen,Neil ODonnell,Neil ODonnell<sv>Neil ODonnell,0.0,0.0
+570,5373d098-e6de-4160-8985-2154e888b345,Alfred A. Knopf Sr.,Samuel Knopf,Samuel Knopf<sv>Samuel Knopf,0.4,0.0
+958,9761b10b-b73f-45cf-832b-afa4a65aeac0,receiving yards,rushing yards,receiving<sv>rushing yards,0.67,0.0
+692,0d7c7d17-4809-4d04-b2a4-c163e8159fea,Kansas City,Chiefs,Chiefs<sv>Chiefs,0.0,0.0
+371,fa0ff92d-eacc-4eaa-9ca0-7ab639445ef9,26.8,73,73.2<sv>-73.2,0.0,0.0
+242,e1f90e7e-7bf7-4647-8e4a-b6251b959b65,between the ages of 18 and 24,18 and 24,18 and 24<sv>ages of 18 and 24<sv>18 and 24,0.91,0.0
+684,f637366b-e816-4d06-94d0-602d9b1ff367,Braylon Edwards,Steve Johnson,Steve Johnson<sv>Steve Johnson,0.0,0.0
+151,eef4423d-a925-43d1-ae05-92a57f153910,Kannada,Urdu,Urdu<sv>Urdu,0.0,0.0
+730,fe04597a-d2f1-4314-9802-c16567bc06b8,10 th Cavalry settled in United States,10th Cavalry settled in United States,10th Cavalry settled in United States,0.77,0.0
+1024,e9059d51-87c8-483d-843a-4d1bac855849,A2 series Humvees,ECV Humvees,ECV Humvees<sv>ECV Humvees,0.4,0.0
+256,188f551d-2e02-48ac-9a32-f5cc443f1614,18 and 24,under the age of 18,18<sv>under the age of 18,0.5,0.0
+204,8e8e69da-bc00-452f-9f62-a5412015ee28,Paris Peace Accords,first Valorous Unit Award,10th Cavalry<sv>first Valorous Unit Award,0.0,0.0
+555,10ae6922-1c8d-4a74-b236-6b42dd793489,Minkhaung II,lord of Yamethin,Toungoo<sv>lord of Yamethin<sv>lord of Yamethin,0.0,0.0
+523,374b2589-5288-481f-8937-974a9d859e04,imprison John V,sought to overthrow his father,sought to overthrow his father<sv>sought to overthrow his father,0.0,0.0
+607,3476f97c-de93-4020-8f15-fd827199ee6d,under the age of 18,25 to 44,25 to 44<sv>25 to 44<sv>25 to 44,0.0,0.0
+157,9ad8a381-5560-41de-afac-720a9d69e861,siege of  ⁇ urawno,siege of Żurawno,siege of Żurawno<sv>siege of Żurawno,0.57,0.0
+1007,7b25f67c-71fc-4926-ba60-be5c7d985a75,Segas,Nintendo Entertainment Systems,Nintendo<sv>Nintendo Entertainment Systems,0.0,0.0
+1016,4aaab5a5-fd9e-4039-93f4-6839933b4abc,Albany County,city of New York,the city of New York<sv>city of New York,0.0,0.0
+964,554ca265-eedc-4728-9e7b-131d5170731c,passing touchdowns,rushing,rushing<sv>rushing,0.0,0.0
+442,ff4a1d6e-73a5-4b81-8f2f-f852feb0ba53,Matt Prater,Prater,Prater<sv>Prater,0.67,0.0
+814,6911351b-3c3a-45d1-add2-363e45df147d,"Orban was named ""Basilica""",Basilica,cannon designed by Orban<sv>Basilica,0.4,0.0
+8,e48ea0f6-ca09-4448-aad5-1d5ff4035744,women and children <ss> women and children,women and children,women and children,0.86,0.0
+23,456c2a83-2463-48ab-a4b4-a3c2f4fd292b,Art Euphoric,Taunton Art Association,Taunton Art Association<sv>Taunton Art Association<sv>Taunton Art Association<sv>Taunton Art Association<sv>Taunton Art Association,0.4,0.0
+114,5a490623-c062-4240-ac63-30365cedf671,gateway to the west,Älvsborg Fortress,Sweden's gateway to the west<sv>Sweden's gateway<sv>Älvsborg Fortress,0.86,0.0
+171,4599721c-36d2-4545-9e33-9d213d8be549,Martov's Menshevik Internationalists,Left Socialist-Revolutionaries,left Socialist-Revolutionaries<ss>Martov's Menshevik Internationalists<sv>left SRs<ss>Martov's Menshevik Internationalists,0.5,0.0
+646,60dd759f-b4a3-4513-b539-0e072a7a4db4,Alexei surrendered the official,they cuggeled him,they cuggeled him<ss>with axes they cut him<sv>they cut him asunder<sv>with axes they cut him,0.0,0.0
+451,caaf041f-3c93-447c-a3e5-7ba0f2cc7e9a,Lawrence Tynes,Plaxico Burress,Plaxico Burress<sv>Plaxico Burress,0.0,0.0
+698,48e4857a-5cd5-49e8-bb83-740a7aa4ec2d,65 years of age,female householder with no husband,female householder with no husband<sv>female householder with no husband,0.0,0.0
+757,79c24186-ad95-42b9-aea6-1dec9c3d4b73,lower secondary classes,primary classes,primary classes<sv>the primary classes<sv>primary classes,0.4,0.0
+981,ad243a7e-0f0f-40af-a1a7-a46265528668,males,female,female<sv>female,0.0,0.0
+182,1d20441a-9b31-4aac-8688-9e1575b062d7,Sir Anthony Cooke,Cecil,Cecil<sv>Cecil,0.0,0.0
+756,85cd57ce-09b4-4b36-987a-92b397ab0b18,primary classes,pupils,pupils<sv>pupils<sv>pupils,0.0,0.0
+571,2e8ed938-6129-461a-9fee-5e0f21b09f93,vice-president,treasurer,treasurer<sv>treasurer,0.0,0.0
+656,a0688b38-6ecf-49ae-bf9c-1b0779812943,Chiefs,Jaguars,Jaguars<sv>Jaguars,0.0,0.0
+36,4980eabf-f2e5-4b4b-877e-948b60ef13d8,Atlanta,Redskins,Redskins<sv>The Redskins<sv>The Redskins<sv>Washington Redskins,0.0,0.0
+97,3875b27d-6517-47a2-90a7-2dc5b64b0b63,procurement,helicopter,helicopter<sv>helicopter,0.0,0.0
+878,a87ccdc9-852a-4279-bcc5-b2f63b05ac5b,Dolphins,Miami,Miami<sv>Miami,0.0,0.0
+456,3b8309be-ac03-4e6b-a263-4ade862e1782,Alexander invaded the region,bring Islam to the region,Islam to the region<sv>Islam to the region,0.33,0.0
+593,65c6c28f-20ef-401b-8fe6-da1935a4f07c,Colts,Texans,Texans<sv>David Car,0.0,0.0
+316,78826c2f-719a-49c7-9192-b79a7a61e3cc,South Bucks,Canterbury,.6<sv>Canterbury<sv>Canterbury<sv>Canterbury,0.0,0.0
+65,21d0b260-d9cd-48fc-8f76-fc6647ab76d0,the king's own brothers openedly <ss> raised a rebellion,king's brothers raising a rebellion,brothers openly raising a rebellion,0.55,0.0
+767,92dcbc50-27a4-4875-82c2-9ed4c57a5840,a pouring rain,a field of mud,The city of Brescia<sv>Brescia<sv>field of mud,0.0,0.0
+882,3485f915-94f1-45d0-8359-b56b2d693176,25 to 44,45 to 64,45 to 64<sv>45 to 64,0.0,0.0
+931,0509c4e8-e32a-4301-9441-341d00dfde8b,Guatemalans,Mexicans,Mexican<sv>Mexicans,0.0,0.0
+927,29d9b06a-692b-422e-bb17-74419fe7a33f,25 and 64,between 25 and 64,24 and younger<sv>between 25 and 64,0.86,0.0
+458,3ca3f0be-f34c-4c74-be52-d324d678daf8,fourth,second,second<sv>second,0.0,0.0
+851,630db409-7b5a-436f-b324-c9c7ce13b214,African American,Asian,Asian<sv>Asian,0.0,0.0
+351,424e3194-e01a-4c75-b16e-22831416e23d,2008-08 FA Cup,2011–12,2011–12 FA Cup<sv>2004–05,0.57,0.0
+778,7fc49432-2cb3-4141-b295-2a013ab07a86,Marc Bulger,Kurt Warner,Kurt Warner<sv>Kurt Warner,0.0,0.0
+498,9c2999c6-c405-4a11-a01c-4479e1916768,Kyawswa,three brothers,the three brothers<sv>the three brothers<sv>the three brothers,0.0,0.0
+945,54676536-a8c8-4d6d-b7a5-b2cfa11bc0c9,Asian,African Americans,African<sv>African Americans,0.0,0.0
+660,7ddfaab0-15e4-44b2-9365-3051b0660778,Houston,their own 46-yard line,46-yard line<sv>46-yard line,0.0,0.0
+477,7e432ce6-d123-445f-9045-5277f62bd92f,Colonel Cabrera,General Pintos,General Pintos<sv>Prime Minister Antonio Maura,0.0,0.0
+952,25cd7f66-4c81-47b0-ac8d-19456c6ac608,80 and older,10 to 29,10 to 29<sv>10 to 29,0.0,0.0
+764,4a8c7592-99d2-4cd3-903a-ba1792959ee4,meeting in Tepelen ⁇ ,the meeting in Podgorica,the meeting in Podgorica<sv>Podgorica,0.57,0.0
+440,9694014e-13ce-4cb9-ab62-496fab138d71,52-yard touchdown pass,52-yard,52<sv>Christian Ponder,0.67,0.0
+731,bb367048-39bc-45bb-a094-91aa3daa5294,The Colts won the game,The Colts,Colts<sv>Colts<sv>Colts<sv>Colts,0.5,0.0
+141,d52f674d-77b2-4104-a3a5-1d2cbe86d08b,Derek Anderson,Brady,Brady<sv>Brady,0.0,0.0
+64,a95448ab-5ec2-444c-a056-ccfd4deca040,Broncos,Denver,Denver<sv>Raiders<sv>Raiders,0.0,0.0
+676,0587a86c-2d15-4308-9804-69724144de13,Derek Anderson,Cleo Lemon,Lemon<sv>Lemon,0.0,0.0
+486,3d281629-25e3-4ecc-8ff1-872449635f19,"290, 000 Indians <ss> Bangladeshis <ss> Pakistanis <ss> Filipinos",55%,55%<sv>more than half,0.0,0.0
+422,edee8280-9e8f-4e4b-b70d-4f31f244f843,Hennala,Nastola,Nastola<sv>Nastola,0.0,0.0
+762,69738a63-9436-4228-ad0b-4c8cc09ca225,northern Albanian mal ⁇ sor ⁇ ,the northern Albanian malësorë,northern Albanian malësorë<sv>the northern Albanian malësorë,0.5,0.0
+741,a6f34174-4fe6-447f-ac69-d41eca7a5be5,Vince Young,Brodie Croyle,Croyle<sv>Brodie Croyle<sv>Croyle<sv>Brodie Croyle,0.0,0.0
+853,7b9b81bf-c579-4aff-9a83-e080a61f99f1,those age 65 or older,age 45 to 64,45 to 64<sv>45 to 64,0.0,0.0
+748,01eff6d4-e5ca-4ef1-b9ee-8eff9e5e565c,John Carney,Charlie Frye,Drew Brees<sv>Charlie Frye,0.0,0.0
+342,10536991-7e88-4a6c-aacf-251de5cd91a3,Spanish,Richelieu hoped Britain and the Dutch would send a fleet to assis,Richelieu<sv>French,0.0,0.0
+297,40a072b1-7d32-4b6b-a71a-ac7c59d4fe3e,American,English,English<sv>black or African American,0.4,0.0
+1001,976388a0-6060-4d99-9d7e-b3b729edffc3,New York Mets,Kansas City Royals,Kansas City Royals<sv>Kansas City Royals,0.0,0.0
+397,cd96f9c9-db17-445e-885c-cc7dabba1aa9,18 Infantry Battalions,Artillery Battalions,Artillery Battalions<sv>22,0.4,0.0
+709,d311a72e-e36e-42e9-a66d-a81a84b703a8,Carl Filip,Gustavus Adolphus,Gustavus Adolphus<sv>Gustavus Adolphus,0.0,0.0
+434,cee54898-b8a8-4935-8d3e-963bee01e9af,anti-treaty forces,Fine Gael,Fine Gael<sv>Fine Gael<sv>Fine Gael<sv>Fine Gael,0.0,0.0
+514,b440b831-32d3-4b22-9133-a2e9e9680838,Nizamiye divisions,four Redif divisions,two Nizamiye divisions<ss>four Redif divisions<sv>Redif divisions,0.5,0.0
+407,0f1b9081-1857-409e-bbba-9ee39aece85d,Pu'er Prefecture,the Mien,the Mien<sv>Qing China,0.0,0.0
+960,1120cb29-095e-4e85-a6ef-84b4cc09523b,2016-2017,2015-2016,2015-2016<sv>2015-2016,0.5,0.0
+96,00ef348f-4050-4af4-9400-f553ac9b66a6,not to attack the town,my biggest mistake,biggest mistake<sv>biggest mistake<sv>biggest mistake<sv>Riffian,0.0,0.0
+959,bf4502cc-ea26-4a01-a942-94c5c0353afb,adult population of smokers,smokers,smokers<sv>smokers,0.4,0.0
+26,ff38c574-0e42-4a1f-89fb-05ac0f82c6cd,Ethiopia closed the U.S. military mission,Soviet Union approaching Mengistu with aid,Soviet Union approaching Mengistu<sv>offers of aid<sv>offers of aid,0.0,0.0
+734,65c4e01b-f4e9-4ca5-b3fb-ffb63bf3c745,Matthew Stafford,Brett Favre,Brett Favre<sv>Brett Favre<sv>Favre,0.0,0.0
+547,f7fa0ed9-275a-4936-b379-bb369d4c1f97,Titans,Jets,Jets<sv>Jets<sv>Jets<sv>Baker,0.0,0.0
+1005,fbe4d917-c344-4edf-b40e-449a71695b23,Anne,George,George Peele<sv>George,0.0,0.0
+301,f8d54032-6d04-4cc5-82f2-680d1d4cbf5f,Civil Guard member,agricultural worker,an agricultural worker<sv>An agricultural worker,0.0,0.0
+833,02644f23-a380-4920-8ec4-e15ad624ac34,close competitors Oldsmobile <ss> Ford Motor Company <ss> Maxwell automobile,Eugene Richard,Eugene Richard<sv>Eugene Richard,0.0,0.0
+603,30b93ed7-d946-4431-afa9-995049afb74e,B Division,Wanderers,Wanderers<sv>Wanderers,0.0,0.0
+459,12e9162d-af52-4a45-95e4-2bb20a1502fb,Jeff Reed,Phil Dawson,Phil Dawson<sv>Phil Dawson<sv>Phil Dawson<sv>Phil Dawson,0.0,0.0
+52,c962f3f0-1cec-4bf0-81a6-f23db872347e,the Bengals,Jaguars,Jaguars<sv>Jaguars,0.0,0.0
+450,fd42f71a-a133-480f-b1f2-9ab60e3cbf10,Plaxico Burress,Lawrence Tynes,Lawrence Tynes<sv>Lawrence Tynes,0.0,0.0
+996,d070b0bb-cf79-4d15-af15-ea62c9fe6812,2,bulbar polio,bulbar polio<sv>bulbar polio,0.0,0.0
+232,4af89ed2-3a8e-4c71-8f04-eb7aa0db7ba1,Outlander novels,Waverley novels,Waverley novels<sv>Waverley novels,0.5,0.0
+826,9ddd9bd3-d0cc-4bc8-8caa-6ff5c30e4f98,Philip Rivers,Drew Brees,Brees<sv>Brees,0.0,0.0
