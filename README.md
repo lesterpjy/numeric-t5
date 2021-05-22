@@ -1,6 +1,6 @@
 # NT5?! Training T5 to Perform Numerical Reasoning
 
-**Authors**: Peng-Jian Yang<sup>a</sup>, Ying Ting Chen<sup>a</sup>, Yuechan Chen<sup>a </sup> 
+**Authors**: Peng-Jian Yang<sup>a</sup>, Ying Ting Chen<sup>a</sup>, Yuechan Chen<sup>a </sup>  
 **Advisor**: Daniel Cer<sup>a, b</sup>   
 <sup>a</sup>University of California Berkeley, <sup>b</sup>Google Research   
 
