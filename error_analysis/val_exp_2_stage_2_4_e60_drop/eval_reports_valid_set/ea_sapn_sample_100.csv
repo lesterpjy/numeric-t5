@@ -1,0 +1,101 @@
+,query_id,prediction,answer,validated_answers,f1,exact_match
+37,7ef82663-f1d5-499f-b779-bb07bd04ed35,Todd Yoder,Michael Turner,Falcons<sv>Michael Turner<sv>Michael Turner<sv>Michael Turner,0.0,0.0
+223,706150a0-dd65-4495-bb32-e378d0e31411,Roger Clemens,Julio Franco,Julio Franco<sv>Julio Franco,0.0,0.0
+325,ef051abe-04c2-4953-a720-030c6be42664,gunmen raided a Malaysian fish farm,gunmen raided,Malaysian fish farm,0.75,0.0
+548,a73b4ca5-9da7-4e7e-a695-9cb86798561a,Browns,Chargers,0,0.0,0.0
+727,a7e9bf8d-b442-4851-bc9c-2d1edd3c4075,game 1,game 2,game 2<sv>Game 2,0.0,0.0
+386,7d97814e-34aa-45a1-8aac-cc5844c789e3,Sebastian Janikowski,Kris Brown,Kris Brown<sv>Kris Brown<sv>Kris Brown,0.0,0.0
+616,da76bb3f-7719-4719-b31b-a14f02761cf0,Yancey Thigpen,Erric Pegram,Neil ODonnell<sv>Neil ODonnell,0.0,0.0
+688,219964d9-a538-446f-baf4-7cbcdb82e64d,Robert Mathis,Peyton Manning,Peyton Manning<sv>Manning,0.0,0.0
+928,25cd7f66-4c81-47b0-ac8d-19456c6ac608,80 and older,10 to 29,10 to 29<sv>10 to 29,0.0,0.0
+844,cffe618e-4bd1-4420-9840-83158e2d202b,49 ers,Niners,Cowboys<sv>Dallas Cowboys,0.0,0.0
+823,2916cf1b-3a53-451e-9174-8b3fa5c0ab70,Rice,Craig,Craig<sv>Craig,0.0,0.0
+271,556d070b-5aac-4626-a76d-eb88c7b0f5c8,Tatars,Sheremetev,Sheremetev<sv>Sheremetev,0.0,0.0
+792,02d53885-3423-4417-a391-99ab78216cf9,Tim Carter,Benjamin Watson,Benjamin Watson<sv>Benjamin Watson,0.0,0.0
+664,0587a86c-2d15-4308-9804-69724144de13,Derek Anderson,Cleo Lemon,Lemon<sv>Lemon,0.0,0.0
+751,c78fec38-c81b-4775-a760-ad9cb32f4817,1512,five days,5<sv>five days<sv>five days,0.0,0.0
+558,2e8ed938-6129-461a-9fee-5e0f21b09f93,vice-president,treasurer,treasurer<sv>treasurer,0.0,0.0
+801,41184fc5-48b7-4198-9e95-a19d9c20db00,large rowing boats,smaller galleys,smaller galleys<sv>15,0.0,0.0
+889,5d8deba0-4978-4364-b717-dbf1fee1d16a,Democratic Party,Republican,Republican<sv>Republican,0.0,0.0
+718,2de31cfa-c0dc-42a6-bdc5-8d13d88bef54,Brett Favre,Matthew Stafford,Matthew Stafford<ss>Brett Favre<sv>Matthew Stafford<ss>Brett Favre,0.5,0.0
+774,ec87d200-5b4b-4a05-8904-23048c8aafb2,45 and 49 years,under age 18,age 65 years and over<sv>65 years and over<sv>under age 18<sv>65 years and over,0.0,0.0
+938,7b68915e-a17e-4bd8-b200-2777553a195c,Oaxaca,San Luis Potosí,San Luis Potosí<sv>San Luis Potosí,0.0,0.0
+878,e67e66c3-5fbe-4d0c-a349-89ecacaae3a8,10 to 14,80 to 89,80 to 89<sv>80 to 89,0.0,0.0
+594,08b1edc5-3c23-41d9-a07f-bbc6613b2ba1,League of Ireland,Dundalk,Dundalk<sv>Dundalk<sv>Dundalk,0.0,0.0
+498,c0905966-b3fc-4710-9309-afbc24d57c33,rifles,machine guns,30<sv>machine guns,0.0,0.0
+489,b79dbdf9-e95e-4626-8597-e52b1a416d95,killed,Somali Airforce,the Somali Airforce<sv>Somali Air-force destroyed,0.0,0.0
+8,c38c4097-07c4-43a1-9612-460c333860a1,the Parliament,Charles V,Charles V<sv>the Emperor<sv>Charles V<sv>Charles V,0.0,0.0
+149,1e615315-c426-4590-86e1-fc04c6aaf464,to raise taxes <ss> pay the army,unpaid soldiery,refused to raise taxes<sv>the Sejm again refused to raise taxes and pay the army,0.67,0.0
+868,3f52a04c-3638-4246-98d3-0221ebb50fe7,10 and 19,90 and older,90 and older<sv>90 and older,0.0,0.0
+406,a5e32736-1ee5-4257-8c32-c645b28a3836,Hernán Peraza The Elder <ss> Diego Garc ⁇ a de Herrera,Hernán Peraza The Elder,Hernán Peraza<sv>Hernán Peraza The Elder,0.5,0.0
+836,8a60f9fe-3f98-4a2a-a69e-7b4b3f6f3483,45 to 64,25 to 44,25 to 44<sv>25 to 44,0.0,0.0
+196,0ced29ed-fe16-4eb1-8bb2-1ca65038cf48,New York,Eagles,Eagles<sv>Eagles,0.0,0.0
+262,1be6d1bc-f309-4d2c-ba0a-a8f2af4b33d8,Poles <ss> Tatars,"14,000-15,000 Poles and 5,000-6,000 Tatars",Poles<sv>Poles<ss>Tatars<sv>Tatars,0.5,0.0
+702,e1aa449c-4683-439a-aa70-c9448e54d42a,Drew Brees,Alex Smith,Alex Smith<sv>Alex Smith,0.0,0.0
+584,acc895d6-b9c5-4a2b-a08c-c8d99532d521,Anthony Becht,Austin Collie,Austin Collie<sv>Austin Collie<sv>Austin Collie,0.0,0.0
+809,d9c97396-7e82-4bff-94bb-cdc0fd08cac1,Philip Rivers,Drew Brees,Drew Brees<sv>12,0.0,0.0
+689,8045bb56-015b-4adb-a401-4ffcacf75168,blocked a Seahawks punt,a safety,safety<sv>safety,0.0,0.0
+443,caaf041f-3c93-447c-a3e5-7ba0f2cc7e9a,Lawrence Tynes,Plaxico Burress,Plaxico Burress<sv>Plaxico Burress,0.0,0.0
+419,fb83d655-ec4d-4d72-b9ef-a53493ac71a4,Romanian,the Russian Army,Russia<sv>Bolshevik Russian,0.0,0.0
+829,dc647615-c287-4e86-b5a6-8e56248f5dfb,0.95 % African American,African American,African American<sv>African American,0.8,0.0
+244,e0803ff8-ea43-455e-8553-579d72efe9eb,45-64,45 to 64,45 to 64,0.8,0.0
+838,4bfdd7c8-5d9a-48d1-96b0-16c22dcab8b4,under age 18,45 to 64,age 45 to 64<sv>age 45 to 64,0.0,0.0
+375,30e5c3ce-1253-4c9e-aa35-276e7fe46130,Deputy,1st Earl of Tyrconnell,Earl of Tyrconnell<sv>1st Earl of Tyrconnell<sv>1st Earl of Tyrconnell,0.0,0.0
+886,6ba1c8f7-435b-419f-a8b6-0b7d11e158e7,Donald Trump,George W. Bush,George W. Bush<sv>George W. Bush,0.0,0.0
+235,d9665bea-ad89-46ab-9ea7-254d8cdc7195,under the age of 18,45 to 64,45 to 64<sv>45 to 64,0.0,0.0
+182,1cb7eb32-cfa4-4dc6-8426-1debcb862ea8,Male unemployment continued to be significantly higher <ss> of females,females,males<sv>females,0.18,0.0
+459,96de8779-c216-415a-8d63-b9cc8593108f,Mart&#237 ;n Gram&#225 ;tica <ss> 31-yard field goal.,Mart&#237;n Gram&#225;tica,Mart&#237;n Gram&#225;tica<sv>Martin Gramatica,0.0,0.0
+314,01521a1d-a116-4b99-90c0-913d2f7e86be,Bengals,Bears,the Bears<sv>Bears,0.0,0.0
+721,f984af3a-8871-4382-beb4-3ca08488b9bb,Alexander Hay,MacGill,MacGill<sv>MacGill<sv>MacGill<sv>MacGill<sv>MacGill<sv>MacGill,0.0,0.0
+739,b7f19a57-0a07-4749-8682-ee326d89a498,Buccaneers,Titans,Tennessee<sv>Titans<sv>Titans<sv>Tennessee<sv>Tennessee<sv>Titans<sv>Tennessee<sv>Titans,0.0,0.0
+273,238b868a-52a6-456d-aa71-ca4403c5027c,Wallachia <ss> Transylvania <ss> Moldavia,"Wallachia, Transylvania and Moldavia","Wallachia, Transylvania and Moldavia<sv>Wallachia, Transylvania and Moldavia<sv>Wallachia<ss>Transylvania<ss>Moldavia<sv>Wallachia<ss>Transylvania<ss>Moldavia",0.75,0.0
+388,75b44e05-52df-4116-ba96-474407d360ee,infantry battalions,Tank Battalions,Tank Battalions<sv>Tank Battalions,0.5,0.0
+474,3d281629-25e3-4ecc-8ff1-872449635f19,"45, 000 Bangladeshis",55%,55%<sv>more than half,0.0,0.0
+706,0f9b7c37-2dc6-4d39-90e8-c7ab6fab6036,Thailand,global,85 percent<sv>Indonesia,0.0,0.0
+304,c438c440-274e-4cf2-aafb-520bfb23f40b,Spanish,Acalan,native populations<sv>Acalan<sv>Acalan,0.0,0.0
+1001,58e7c549-9e67-4925-8431-b0d6c4d6aef2,Greenleaf,Notus,Notus<sv>Notus,0.0,0.0
+55,2c31b467-8347-440d-974c-173b8f21c6f9,wanted to annex Kuwait,Saud wanted to annex Kuwait,Saud wanted to annex Kuwait,0.89,0.0
+855,a6b91124-e534-42f3-83b7-400980cbbd97,Polish people,Polish,Polish<sv>Polish,0.67,0.0
+83,021777cc-48af-4379-9c44-f444dc80e73b,French,Puerto Rican,Puerto Rican<sv>Puerto Rican,0.0,0.0
+733,cdd6547f-d418-425c-b2cb-b87016e4297a,Marques Colston,Kellen Winslow,Kellen Winslow<sv>Kellen Winslow,0.0,0.0
+989,0ea99be0-9bc5-496d-8bc6-bb2b43ac949f,Matt Prater,Brown,Josh Brown<sv>Brown,0.0,0.0
+96,601d2132-a3b2-4178-b080-ec8f11a6283a,White,Race,Native American<sv>Race,0.0,0.0
+202,bc63c231-a342-48fc-9df2-f2019d271bc2,priests,churches and chapels,churches and chapels<sv>churches and chapels<sv>churches and chapels<sv>churches and chapels<sv>chapels,0.0,0.0
+358,64c289f7-6aa4-4cea-b286-a918496909b7,Evangelical Lutheran Church,rapid secularisation,rapid secularisation of the Netherlands,0.0,0.0
+492,68e62ff7-4b18-426e-a27d-4bf8f642a729,Somali National Army,Somali Airforce,Somali Airforce<sv>Somali Airforce,0.4,0.0
+233,ffaf5282-15b5-4c74-b274-c655096cfd05,65 and older,under the age of 18,under the age of 18<sv>under the age of 18,0.0,0.0
+9,7a21b6e3-3273-48c9-afc9-b5a968104828,in the town,Pamplona,Pamplona<sv>Pamplona,0.0,0.0
+613,3b669f59-b2b6-4fc5-ac77-1206cadd4ee5,Andre Hastings,Yancey Thigpen,Yancey Thigpen<sv>Yancey Thigpen,0.0,0.0
+608,4060a4d3-2bc9-4db8-b6e1-2e302624d529,Tim Tebow,Matt Moore,Matt Moore<sv>Matt Moore,0.0,0.0
+350,9b2b5519-a8dc-43f1-a4bd-ec3ed9adef46,immediately shock of unexpected humiliation,unexpected humiliation,discontent,0.57,0.0
+697,7f8ac59b-b589-43e0-ac3b-717c35f6f914,female householder with no husband,female householder,female householder with no husband present<sv>female householder,0.91,0.0
+898,becd0619-d572-48d5-b039-54f46181b368,49 ers,49ers,49ers<sv>49ers,0.0,0.0
+552,8203ffaf-cb55-4d28-a010-d933cb0e9c8e,Bangkok,Laos,Lao<sv>africa,0.0,0.0
+514,30e32471-a199-45a3-a340-d1b087234f2b,Noah Herron,Steven Jackson,Steven Jackson<sv>Steven Jackson,0.0,0.0
+245,e4d1e980-6b7e-4d2e-ab3b-6a7f63d073cf,males,male,male,0.0,0.0
+993,81a66eed-e2b3-4eb2-9060-4096ce02ec68,Clinical Dentistry,Physiotherapy,Physiotherapy<sv>Physiotherapy,0.0,0.0
+242,7b9d968f-cf07-4b56-a1df-4cc68fb9bea4,45 to 64,25 to 44,25 to 44<sv>25 to 44,0.0,0.0
+563,af628589-4332-40b0-98ac-f689aae03f40,Cardinal Guillaume Court,"Cardinal Guillaume Court, O.Cist.","Cardinal Guillaume Court, O.Cist.<sv>Cardinal Guillaume Court, O.Cist.",0.86,0.0
+20,003aa246-5f52-4917-8646-ab140934a2ae,Roddy White,Michael Turner,Michael Turner<sv>Michael Turner<sv>Michael Turner<sv>Michael Turner,0.0,0.0
+356,e29c5ecd-bb5e-4d68-a88d-dfe6d7c0d128,to face Germany,a reform,reform of the Russian military,0.0,0.0
+501,d99bc5ec-73f2-4fa0-a951-424cdf42b003,Hasselbeck,Matt Hasselbeck,Matt Hasselbeck<sv>Matt Hasselbeck,0.67,0.0
+796,a91b722b-f872-4027-9885-d39d48f7796c,the purchase of two Donnet-Leveque flying boats,purchase of two Donnet-Leveque,Donnet-Leveque flying boats<sv>purchase two Donnet-Leveque flying boats,0.92,0.0
+634,e927e3b5-3329-4e7c-96cd-5815a9d28c2c,Nazar Chisto,Leontii Pleshcheyev,Leontii Pleshcheyev<sv>Nazar Chistoy,0.5,0.0
+890,b7ad25d9-ef82-4a5a-91e8-b93f96659af1,2012,2016,2016<sv>2016,0.0,0.0
+623,5c0ad12f-3854-43d6-bd02-98d0a85bef0a,Latavius Murray,Matt Forte,Forte<sv>Matt Forte,0.0,0.0
+610,b7490b9a-3901-49e8-bcf2-0f0e56290740,Dermontti Dawson,Yancey Thigpen,Yancey Thigpen<sv>Yancey Thigpen<sv>Yancey Thigpen,0.0,0.0
+528,e2e4c788-b06a-4eca-9375-5d60a7f741ac,Titans,Jets,Jets<sv>Jets<sv>Jets<sv>Jets,0.0,0.0
+731,9fcab4cd-3f2c-4479-839b-a2cfbd691de9,141 all-purpose yards,20-yard,20-yard<sv>20-yard,0.0,0.0
+990,d729b650-0e09-4c6c-b534-89fbf546f08e,Josh Brown,Prater,Matt Prater<sv>Prater,0.0,0.0
+48,7f5841d1-74f0-47c7-a5f5-1f9c5ca12d09,Sweden,Lithuania,Lithuania<sv>Lithuania,0.0,0.0
+374,5351d216-8f79-4a0f-b7b3-fd4053a34d5b,Marion Barber,Barber,Cowboys<sv>Barber,0.67,0.0
+767,93de4485-9932-48d9-8855-74d8e5461a3c,2010,"952,000 in 1990",1990<sv>1990,0.0,0.0
+611,9432f147-fed2-4655-8448-11df40f82759,Yancey Thigpen,Neil ODonnell,Neil ODonnell<sv>Neil ODonnell,0.0,0.0
+143,048dbf55-d585-4f99-a911-781c43e38b92,Malayalam,Kodava Takk,Kodava Takk<sv>Kodava Takk,0.0,0.0
+118,0dd0cf11-2366-4844-9361-66e7daf258c6,the British,rebels,rebels<sv>the rebels,0.0,0.0
+812,8ce4996b-16ae-4ed6-b101-e2dcf69bc310,investment,enterprise restructuring,enterprise restructuring<sv>enterprise restructuring<ss>well-functioning capital market,0.0,0.0
+404,15e84b63-4fcb-4c0b-a7de-d1a130fce77d,60.9,39.1%,39.1<sv>39.1,0.0,0.0
+972,097d72ee-5615-4cdb-a324-dad475fca91d,1957 to 1961,1953 to 1957,1953 to 1957,0.67,0.0
+909,cca8a213-10a9-4452-81ff-4a9394d8a719,Ronnie Brown,Faulk,Faulk<sv>Faulk,0.0,0.0
+31,41e34db9-7cc5-4385-8ac4-0f6725288063,1634,1633,4 July<sv>1633,0.0,0.0
+566,630d7794-2524-4add-8849-6988f3425a4b,stickum-type substance,Gorilla Gold Grip Enhancer,Gorilla Gold Grip Enhancer<sv>Gorilla Gold Grip Enhancer,0.0,0.0

@@ -1,0 +1,101 @@
+,query_id,prediction,answer,validated_answers,f1,exact_match
+276,c665ee1c-197c-438b-9101-9487bb86916d,Asian,Hispanic or Latino origin,Hispanic or Latino<sv>Hispanic or Latino origin,0.0,0.0
+64,acc160c1-6a5c-4d63-a359-f5fb396a4f74,65 years of age,18 to 24,18 to 24<sv>18 to 24,0.0,0.0
+174,dee684a8-1c7e-40cf-a332-08608ece5bdd,Rian Lindell,J. P. Losman,Losman<sv>Losman<sv>J. P. Losman,0.0,0.0
+949,097d72ee-5615-4cdb-a324-dad475fca91d,1957 to 1961,1953 to 1957,1953 to 1957,0.67,0.0
+775,6911351b-3c3a-45d1-add2-363e45df147d,"Orban was named ""Basilica""",Basilica,cannon designed by Orban<sv>Basilica,0.4,0.0
+134,f8ba7241-0755-42f9-a5a9-789b138361af,he was assassinated,attempted to reconcile with Poland,reconcile with Poland<sv>reconcile,0.0,0.0
+504,f7fa0ed9-275a-4936-b379-bb369d4c1f97,Titans,Jets,Jets<sv>Jets<sv>Jets<sv>Baker,0.0,0.0
+632,9a6351a6-f479-4776-858e-a7a7f6ea8f53,campaigns of 1702 <ss> and 1703 <ss> he spoke with Envoy of Savoy <ss> about possible opportunities in their army,campaigns,Envoy of Savoy<sv>campaigns of 1702 and 1703,0.45,0.0
+906,ee8a5b27-a384-4f03-af0b-cedb03f95d29,Rye,Sheep,Sheep<sv>Sheep,0.0,0.0
+823,e15555fe-0a2b-4d0c-833e-886a1b5fa359,2000,2011,2011<sv>2011,0.0,0.0
+350,9c89d33b-bd0d-4021-8c63-ea86199c32af,45 to 64 year olds,45 to 64,45 to 64<sv>45 to 64,0.75,0.0
+656,b123f48b-91c8-4350-8a6b-fbf9b8e52ff2,65 years of age,female householder with no husband,female householder with no husband present,0.0,0.0
+410,64bd2eb7-aa7f-4791-b035-ce8a6135853f,withdrawal of Romanian forces,Romanian forces established control,Romanian forces established control,0.5,0.0
+576,3c3f3961-8122-4fe5-94e9-652843402f42,1-yard,29-yard,29-yard TD run<sv>29-yard,0.0,0.0
+265,74ac2f37-3000-4c8a-9112-aa1ef1ab7252,Great Turkish War,Cretan War,Great Turkish War of 1683-99<sv>Cretan War,0.4,0.0
+302,931a0838-5083-45ed-924f-ead8b6a0bab7,a Pittsburgh challenge,rushing touchdown,Jason Campbell<ss>rushing touchdown<sv>touchdown<sv>a rushing touchdown,0.0,0.0
+720,1a448acc-7738-4fbf-88c7-11bac242e17a,secondary class,primary classes,lower secondary classes<sv>primary class<sv>primary classes,0.5,0.0
+342,e29c5ecd-bb5e-4d68-a88d-dfe6d7c0d128,the revolts at home following the war planted seeds,a reform,reform of the Russian military,0.0,0.0
+588,da76bb3f-7719-4719-b31b-a14f02761cf0,Yancey Thigpen,Erric Pegram,Neil ODonnell<sv>Neil ODonnell,0.0,0.0
+824,b24bc125-850b-4d5b-ae8f-c768185f2460,public transportation,carpooled,carpool<sv>carpooled,0.0,0.0
+595,bea1a14c-cfcc-405c-b465-e8e0962ca148,third,second quarter,second<sv>2<sv>second<sv>2<sv>second,0.0,0.0
+9,7a21b6e3-3273-48c9-afc9-b5a968104828,in the town,Pamplona,Pamplona<sv>Pamplona,0.0,0.0
+522,88fc0951-1a7f-406f-ac93-14914a926f39,Chargers,Browns,Browns<sv>Browns kicker Phil Dawson<sv>Phil Dawson,0.0,0.0
+553,65c6c28f-20ef-401b-8fe6-da1935a4f07c,Colts,Texans,Texans<sv>David Car,0.0,0.0
+310,ef051abe-04c2-4953-a720-030c6be42664,gunmen raided a Malaysian fish farm,gunmen raided,Malaysian fish farm,0.75,0.0
+168,99024634-a781-4c5e-a0f2-baf70c5f1348,WR Justin Gage,Washington,Washington<sv>Washington,0.0,0.0
+137,b2a1b19a-68a6-4e16-a834-43b41005990a, ⁇ vitrigaila withdrew to Moldavia,Švitrigaila withdrew to Moldavia,Švitrigaila withdrew to Moldavia<sv>Švitrigaila withdrew to Moldavia,0.67,0.0
+958,9148f6ee-5e70-4cfe-9d97-fabb2579d80d,James Peele,George,George,0.0,0.0
+674,4cbba189-3b38-44ad-9456-f2fc33fbdb1c,65 years of age,someone living alone,someone living alone who was 65 years of age or older,0.53,0.0
+14,a4f5dd52-e312-4730-a248-223a9cf5a76b,Patriots,Bengals,Cincinnati<sv>Bengals<sv>Bengals<sv>Bengals,0.0,0.0
+108,0f63b69c-28c1-4d88-8e6b-fcff99740ca6,Russian market <ss> separation would disrupt the Finnish financial zone,the huge Russian market,huge Russian market<sv>the huge Russian market,0.33,0.0
+723,69738a63-9436-4228-ad0b-4c8cc09ca225,northern Albanian mal ⁇ sor ⁇ ,the northern Albanian malësorë,northern Albanian malësorë<sv>the northern Albanian malësorë,0.5,0.0
+266,0529c2d5-9bea-4643-b850-9292daf57b8f,Great Turkish War,Ottoman-Venetian War,Ottoman-Venetian War,0.33,0.0
+947,d070b0bb-cf79-4d15-af15-ea62c9fe6812,PV2,bulbar polio,bulbar polio<sv>bulbar polio,0.0,0.0
+148,f8594739-f74f-46f2-a1d7-77303e0460e5,Kannada language,Konkani,Konkani<sv>Konkani,0.0,0.0
+358,e0c33628-a347-44ed-a677-819adcd24033,45 to 64,under the age of 18,under the age of 18<sv>under the age of 18,0.0,0.0
+840,3f52a04c-3638-4246-98d3-0221ebb50fe7,10 and 19,90 and older,90 and older<sv>90 and older,0.0,0.0
+741,4f00a2b2-124c-4342-96e0-72ba4b36375d,Delhomme,Jake Delhomme,Jake Delhomme<sv>Jake Delhomme,0.67,0.0
+791,02644f23-a380-4920-8ec4-e15ad624ac34,Oldsmobile <ss> Ford Motor Company <ss> Maxwell automobile,Eugene Richard,Eugene Richard<sv>Eugene Richard,0.0,0.0
+437,f88ebc47-83bc-4759-bbcf-3ba383a91513,Packers,Lions,Lions<sv>Lions<sv>Lions,0.0,0.0
+128,20222a55-434f-4fc2-93c4-4b44f2fd228e,the Qing decided to impose a tighter control,a tighter control of Yunnan,tighter control of Yunnan<sv>control of Yunnan,0.4,0.0
+598,5a281e65-84cc-4d5c-9dfd-2282ac1b5d8d,German forces,a major Soviet offensive,Soviet<sv>Soviet,0.0,0.0
+263,0ae84168-e40b-4cc7-9860-cfefb02b1333,The Long Turkish War,Thirteen Years' War,The Thirteen Years' War<sv>Thirteen Years' War<sv>Thirteen Years' War<sv>Thirteen Years' War,0.33,0.0
+91,88b4c5b2-c9cc-46af-b79b-a888766c406f,Henderson,WR Devery Henderson,Devery Henderson<sv>Devery Henderson<sv>Devery Henderson<sv>Devery Henderson<sv>Devery Henderson,0.67,0.0
+126,5c1c7fd1-4b12-4cad-b2de-0dfacbfe6725,Manco,Atahualpa,Atahualpa<sv>Atahualpa<sv>Atahualpa,0.0,0.0
+185,ba141618-4caa-48bf-b53f-928dd4049b84,Louis II,Frederick,Frederick<sv>Frederick<sv>Matthias Corvinus,0.0,0.0
+821,5d68b7c8-d196-46a4-a89f-13b710fa7400,registered Democratic,Democratic,Democratic<sv>Democratic,0.67,0.0
+489,1ef0e140-8cf0-4213-82c1-7f9e745bb2bd,65 years of age,18 to 24,18 to 24<sv>18 to 24,0.0,0.0
+45,e9a17f71-94ee-4031-af88-e9a3e116b575,Josh Brown,Brown,23<sv>Robbie Gould,0.67,0.0
+296,48a7ff48-5178-431d-a826-7c8dd21362a4,trade unionists <ss> Armenian-Cypriots,Armenian-Cypriots,Armenian-Cypriots<sv>Armenian-Cypriots,0.57,0.0
+200,f220c2eb-dc1e-4327-bb2a-750bd1320b2f,Akishino,Prince Akishino,Prince Akishino<sv>Prince Akishino<sv>Prince Akishino,0.67,0.0
+835,6c979fd5-3f58-4181-95fc-7c2f4189cec6,45 to 64 <ss> 65 years of age,from 25 to 44,25 to 44<sv>25 to 44,0.0,0.0
+241,58b0b58a-e8e9-4528-a223-039f36f217a2,Rif,Rifians,Rifians<sv>Rifians<sv>Rifians<sv>Rifians,0.0,0.0
+224,d9665bea-ad89-46ab-9ea7-254d8cdc7195,under the age of 18,45 to 64,45 to 64<sv>45 to 64,0.0,0.0
+837,f9474436-2af8-4e3b-a280-64946420d76e,mobile games,retail games,retail games<sv>retail games,0.5,0.0
+5,9ea6e8ae-b36a-4b2e-9fee-5114fe3a4093,began a new stage in which they scattered even further,a museum for the remembrance,started the Museo<sv>a museum,0.0,0.0
+751,f90b9803-10f1-4c9f-a7ff-3dda8da5cf35,60 and 64 years,65 years and over,65 years and over<sv>65 years and over<sv>65 years and over<sv>65 years and over,0.0,0.0
+710,9fcab4cd-3f2c-4479-839b-a2cfbd691de9,141 all-purpose yards,20-yard,20-yard<sv>20-yard,0.0,0.0
+518,9576b510-783f-425f-bf8c-5d745e929413,Matthew Stafford,Kris Durham,Kris Durham<sv>6,0.0,0.0
+226,e09edd44-40fa-465a-a1bb-2482c6b66c77,under the age of 18,25 to 44,25 to 44<sv>25 to 44,0.0,0.0
+924,7f1783b1-a6b0-4620-8644-8bfdc7fa8221,2013,1985,1985<sv>1985,0.0,0.0
+733,55d313fa-cc3a-44fa-a8b7-353feb096a1e,Peyton Manning,Trevor Siemian,Trevor Siemian<sv>Trevor Siemian,0.0,0.0
+430,379a0f56-07c2-43a0-8be4-020e000c400b,QB Philip Rivers,Philip Rivers,Philip Rivers<sv>Philip Rivers<sv>Philip Rivers,0.8,0.0
+431,3ca3f0be-f34c-4c74-be52-d324d678daf8,fourth,second,second<sv>second,0.0,0.0
+894,aeff18e2-a939-49e2-8886-a1d551bd2dbb,Bulgaria,Turkey,turkey<sv>Turkey,0.0,0.0
+198,e116a51c-e22f-4f42-a37c-2019ae7d6bd6,his appointment as the archbishop,the Metropolitan of Helsinki,Metropolitan of Helsinki<sv>Metropolitan of Helsinki<sv>Metropolitan of Helsinki,0.0,0.0
+730,92dcbc50-27a4-4875-82c2-9ed4c57a5840,a pouring rain,a field of mud,The city of Brescia<sv>Brescia<sv>field of mud,0.0,0.0
+192,e5e11477-7b11-4f73-b8c8-2bb7da5c8cdd,Jason Avant,DeSean Jackson,DeSean Jackson<sv>DeSean Jackso,0.0,0.0
+691,da855b91-32a1-4511-94be-17d473edf712,Mansfeld,Mansfeld troops,6000 on foot<sv>6000,0.67,0.0
+501,e2e4c788-b06a-4eca-9375-5d60a7f741ac,Titans,Jets,Jets<sv>Jets<sv>Jets<sv>Jets,0.0,0.0
+538,bb8f794b-705b-4cab-a563-74262bc380bf,under 18 years,had individuals under 1,individuals under 18 years<sv>individuals under 18 years,0.86,0.0
+140,5cd1eb46-1788-4f87-899d-a2953fe19995,Rob Bironas <ss> 49-yard field goal,Bironas,Bironas<sv>Bironas<sv>Bironas<sv>Bironas<sv>Bironas<sv>Bironas,0.25,0.0
+982,79d4ed26-291a-4857-892f-67cf44abc16f,Multi-family residential homes,three family homes,three-family homes<sv>three family homes,0.57,0.0
+332,d139e832-8076-47cb-bbd7-6ae38b9efc73,2004-05 season,2005-06 season,2005-06<sv>2005–06,0.0,0.0
+322,044d83bf-2cd2-4285-b6a5-fcb78394c643,"the French, English, and Dutch",Spanish and Portuguese,Spanish and Portuguese<sv>Spanish<ss>Portuguese,0.29,0.0
+822,7d6b785e-12c8-4ebf-b1dd-a9b8bceebb27,registered Democratic,Democratic,Democratic<sv>Democratic,0.67,0.0
+281,3fad6fbf-f3a1-473c-924b-8de53b48a768,the patrol area,enforce an international arms embargo,enforcement of an arms embargo?<sv>enforcement of the arms embargo<sv>allotted the patrol area,0.8,0.0
+960,7c810e73-0089-45a3-aa84-fb94fca24439,Nintendos 36,Atari 7800,Atari<sv>Atari 7800,0.0,0.0
+753,37b30b0d-db14-40c6-80d4-626d03ec0d8b,20 to 29,10 to 19,10 to 19<sv>10 to 19,0.0,0.0
+543,ade55d7d-b1c4-4085-bc0c-0f81971f42ed,under 18 years,under the age of 18,had individuals under 18 years,0.75,0.0
+622,b24cbc34-ee42-41a9-b93a-30ae6db630f2,14-yard,28-yard,28<sv>28-yard<sv>28-yard<sv>28<sv>28,0.0,0.0
+360,5351d216-8f79-4a0f-b7b3-fd4053a34d5b,Marion Barber,Barber,Cowboys<sv>Barber,0.67,0.0
+684,0f9b7c37-2dc6-4d39-90e8-c7ab6fab6036,South Thailand,global,85 percent<sv>Indonesia,0.0,0.0
+336,3d39df5b-dc6e-4124-86f4-1cd72789f9f1,2008-08 FA Cup,2005-06,2006-07<sv>2004-05 season,0.0,0.0
+196,6a140a4e-a62b-4c84-b8bc-64337df1f262,Troop H/10 th Air Cavalry,Troop H/10th Air Cavalry,H Troop<sv>Troop H/10th Air Cavalry,0.67,0.0
+381,f1613fa6-cb64-4944-a9a4-de083b260362,2,22,22<sv>22<sv>22<sv>22,0.0,0.0
+328,688c05f6-5906-4a65-9c7a-9a510bf15408,2008-08 FA Cup,2005–06,2005–06<sv>2005–06<sv>2005–06,0.0,0.0
+552,acc895d6-b9c5-4a2b-a08c-c8d99532d521,Anthony Becht,Austin Collie,Austin Collie<sv>Austin Collie<sv>Austin Collie,0.0,0.0
+457,1bea634c-25de-4349-9a93-bb80f12416af,the Mujaheddin,the Hmong tribe,Hmong tribe<sv>Afghanistan,0.0,0.0
+243,4d66bab8-8b88-4ece-ab58-dd212efd7c07,Spanish,The French,French<sv>French,0.0,0.0
+511,10ae6922-1c8d-4a74-b236-6b42dd793489,Minkhaung II,lord of Yamethin,Toungoo<sv>lord of Yamethin<sv>lord of Yamethin,0.0,0.0
+416,0288f49d-4c5a-4df4-947b-fb97b047ae54,"Treaty of Karlowitz <ss> signed in January 1699 <ss> Treaty of Karlowitz <ss> The Treaty of Karlowitz, <ss> n 1715 a swift Ottoman campaign reclaimed the Morea.",Treaty of Karlowitz,Treaty of Karlowitz<sv>The Treaty of Karlowitz<sv>Treaty of Karlowitz,0.33,0.0
+300,679c015d-a136-487d-94e1-85410233ca5f,The imperial inspector,reiterated the emperor's wishes,Zhao Wenhua<sv>emperor,0.0,0.0
+179,eb29dd74-5bee-48e5-b49b-baf3eb79e3b3,hispanic,white,white<sv>white,0.0,0.0
+15,a5a47d9f-e175-485c-8cc2-b0665e05ec53,officers,non-commissioned officers,non-commissioned officers<sv>non-commissioned officers<sv>non-commissioned officers<sv>non-commissioned officers,0.5,0.0
+845,a98e674c-053e-4c52-905c-6b00ea2b9498,5,9,9,0.0,0.0
+400,6aa3b033-a793-449e-ba1c-a42ef921d62a,1950,1960,1960<sv>1960<sv>1960,0.0,0.0
+705,1f0a030e-25f0-4b0c-9fbc-f446569effd6,New England,Maine,Maine<sv>Maine<sv>Maine,0.0,0.0
+953,f0eda175-7694-4013-a48e-d28478c5c5ee,information industry,he insurance or financial industry,insurance or financial industry<sv>he insurance or financial industry,0.33,0.0
+662,6d29490d-6a58-437c-8b79-31aa555e3b12,Andrew Luck,Peyton Manning,Peyton Manning,0.0,0.0

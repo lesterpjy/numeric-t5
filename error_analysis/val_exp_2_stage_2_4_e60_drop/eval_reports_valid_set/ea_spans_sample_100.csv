@@ -1,0 +1,101 @@
+,query_id,prediction,answer,validated_answers,f1,exact_match
+68,9897b605-c973-4c1e-8a77-769d0ed75e68,Aigina <ss> Romania <ss> Navarino <ss> Achaea,Romania<ss>Laconia<ss>Messenia<ss>Achaea,Romania<ss>Laconia<ss>Messenia<ss>Achaea<sv>Romania<ss>Laconia<ss>Messenia<ss>Achaea,0.5,0.0
+256,cad81db5-2b73-459b-9cd2-afb1f45de23e,White <ss> African American,White<ss>Latinos,Latinos<ss>Germans,0.5,0.0
+291,4e1c200c-dd6b-4515-99a6-96e23453a1f4,Barack Obama <ss> John McCain,Donald Trump<ss>George W. Bush,Donald Trump<sv>Donald Trump<ss>George W. Bush,0.0,0.0
+191,9b00a7f1-c5f1-4c60-926e-d7df131b26e3,10 and 19 years <ss> 25 and 29 years <ss> 40 and 49 years <ss> 60 and 64 years <ss> 60 and 64 years,20 and 24 years<ss>25 and 29 years,20 and 24<ss>25 and 29,0.2,0.0
+90,23e5f993-8682-40dc-a61e-7d268890daa8,convergence of Protestant hostility to the Habsburgs,convergence of Protestant<ss>hostility to the Habsburgs,Protestant hostility to the Habsburgs<sv>Protestant hostility to the Habsburgs,0.8,0.0
+25,a2f25486-e034-4532-b28e-e80ce8555c0f,The Qing,The third invasion<ss>penetrating deep into central Burma,The third invasion<sv>The third invasion<sv>third invasion<sv>third<sv>The third<sv>The third invasion,0.0,0.0
+39,2ca4b84c-1253-4e85-8758-450a633de9b7,Mind Dynasty conquering Yunnan borderlands,"borderlands between 1380 and 1388,<ss>Shan States came in 1557",Ming dynasty,0.29,0.0
+69,78330072-09f3-4606-8590-ca1900b01093,"Romania <ss> Monemvasia, Laconia <ss> Achaea",Nafplion<ss>Monemvasia<ss>Navarino<ss>Patras,Romania<ss>Laconia<ss>Messenia<ss>Achaea<sv>Nafplion<ss>Monemvasia<ss>Navarino<ss>Patras,0.67,0.0
+16,db314f06-4dc0-4cbd-a1d7-db195c51977c,United States <ss> Italian,danish<ss>Italian,danish<ss>Italian<sv>danish<ss>Italian,0.5,0.0
+209,7f483afc-67be-4923-a3c0-711dc4e217a6,Mike Karney <ss> Deuce McAllister,Deuce McAllister<ss>Mark Campbell<ss>Mike Karney,Mark Campbell<ss>Deuce McAllister<ss>Mike Karney<sv>Deuce McAllister<ss>Mike Karney<ss>Mark Campbell,0.67,0.0
+41,086ef7c9-0cc8-43f0-a41e-e71c46c343ec,Ming dynasty <ss> King Bayinnaung,The Ming dynasty<ss>Toungoo dynasty,Ming dynasty<ss>Toungoo dynasty<sv>Ming<ss>Toungoo,0.5,0.0
+296,8d0ec4b4-f6b0-4fc2-95b1-402a851f812f,Puerto Rican <ss> Mexican,Puerto Rican<ss>Dominican,Puerto Rican<ss>Dominican<sv>Puerto Rican<ss>Dominican,0.5,0.0
+147,3a70b771-2f1f-4ba9-a2eb-ad3d21c8c560,Cambodians <ss> Laos <ss> Myanmar,Australia<ss>Africa<ss>Lao,Australia<ss>Africa<sv>Australia<ss>Africa<ss>Lao,0.0,0.0
+126,26c6ed1a-2b22-44f5-81a6-e7ee99d1e5fb,Indians <ss> Bangladeshis,Pakistanis<ss>Filipinos,Pakistanis<ss>Filipinos<sv>Pakistanis<ss>Filipinos<sv>Pakistani<ss>Filipino,0.0,0.0
+280,92ae64d4-f6c5-44d9-9fc7-16d39d9f239d,Six-Day War <ss> Nigeria,the Portuguese Colonial War<ss>the Six-Day War by Israel,Portuguese Colonial War<ss>Six-Day War by Israel<sv>Portuguese Colonial War<ss>Six-Day War by Israel,0.37,0.0
+172,1e221f63-9654-4ba4-98ed-355cca7c401b,Chicago Bears <ss> Minnesota Vikings <ss> Pittsburgh Steelers <ss> Green Bay Packers <ss> New England Patriots,49ers<ss>Bears<ss>New England Patriots,Bears<ss>Patriots<ss>49ers<sv>3,0.33,0.0
+350,1098b648-abb4-4ab4-be17-2584c2f832ea,2000 and 2002 <ss> 2004,2003<ss>2004<ss>2005,2003<ss>2004<ss>2005<sv>2003<ss>2004<ss>2005,0.33,0.0
+38,69fd9e90-4fc6-4908-8c99-ac7ba902f577,Italian <ss> united states <ss> Italian <ss> Italian,German<ss>Italian<ss>united states<ss>Italian<ss>Italian,French Canadian<ss>German people<ss>Italian<sv>German<ss>Italian<ss>united states<ss>Italian<ss>Italian,0.8,0.0
+84,98842c5f-aa44-4372-a501-948765e5a88d,Craig Terrill <ss> Patrick Willis,DT Craig Terrill<ss>LB Patrick Willis,Craig Terrill<sv>Craig Terrill,0.8,0.0
+76,bbdb1206-a342-4350-b660-c120fbc22c6d,broke the alliance with Moscow,"pay 300,000 rubles<ss>evacuate","pay 300,000 rubles<ss>evacuate Kiev, Pereyaslav, Chernigov<sv>pay 300,000 rubles<ss>evacuate Kiev, Pereyaslav, Chernigov",0.0,0.0
+269,208eff0e-b7f0-4796-8892-f528bbeb62a5,25 to 44 <ss> 45 to 64,65 years of age<ss>25 to 44<ss>25 to 44<ss>45 to 64,25 to 44<ss>65 years of age<sv>65 years of age<ss>25 to 44<ss>25 to 44<ss>45 to 64,0.5,0.0
+180,93381eda-fb0b-4a63-9e40-2f0d3ec1c8ba,Grand Prince Iziaslav of Kiev <ss> Princes Sviatoslav Yaroslavich of Chernigov <ss> Vsevolod,Grand Prince Iziaslav of Kiev<ss>Sviatoslav Yaroslavich of Chernigov<ss>Vsevolod,Grand Prince Iziaslav<ss>Sviatoslav Yaroslavich<ss>Vsevolod,0.96,0.0
+360,d1ef042c-4bf5-4877-b330-dce16939ca18,Melba <ss> Wilder,Notus<ss>Greenleaf<ss>Wilder,Wilder<ss>Star<ss>Melba<ss>Notus<ss>Greenleaf<sv>Notus<ss>Greenleaf<ss>Wilder,0.4,0.0
+226,e92d782f-9cb1-4cfe-8074-bebd50e9551f,Peyton Hillis,Jerricho Cotchery<ss>Peyton Hillis,Jerricho Cotchery<ss>Peyton Hillis<sv>Jerricho Cotchery<ss>Peyton Hillis,0.5,0.0
+309,207879d3-9b35-42cd-8de0-1dcb853d95e0,teenagers <ss> adult population,between 40 and 49<ss>between 50 and 59,40 and 49<ss>50 and 59<sv>between 40 and 49<ss>between 50 and 59,0.0,0.0
+341,96bd2e17-faec-40ee-8018-2d0747a17863,Arabic <ss> Japanese,Japanese<ss>African languages,Japanese<ss>African languages<sv>Japanese<ss>African languages,0.5,0.0
+142,f91804a4-cef8-4e2c-a589-e26fd45745b5,Chad Simpson getting a 31-yard touchdown run,Jacob Lacey returning an interception<ss>35 yards for a touchdown,45-yard<sv>45-yard field goal<sv>35 yards<sv>45-yard field goal,0.0,0.0
+53,817609c8-61c2-4bc0-a13a-886537dcf03a,Jaél de Peigne,"November 1566 Killigrew married<ss>Catherine,<ss>November 1590 he was married<ss>Jaél de Peigne,",Catherine<sv>Killigrew getting married to Catherine,0.25,0.0
+304,6639ffe0-acdd-40cc-a6f5-081c6e09df04,8-yard <ss> 1-yard,8-yard<ss>7-yard,7-yard<ss>8-yard<sv>8-yard<ss>7-yard,0.5,0.0
+207,09d40815-d551-42db-9096-59378b0190df,Devery Henderson <ss> Antonio Gates,Devery Henderson<ss>Antonio Gates<ss>LaDainian Tomlinson,Devery Henderson<ss>LaDainian Tomlinson<ss>Antonio Gates<sv>LaDainian Tomlinson<ss>Antonio Gates,0.67,0.0
+335,d2c73134-f543-4f5e-ad3a-2285b64d7155,1569,1553<ss>1569,1553<sv>1553<ss>1569,0.5,0.0
+121,ed1e3110-ac93-402a-82b4-fdbd574731bb,pro-Free State Blueshirts,IRA<ss>pro-Free State Blueshirts,IRA<sv>the IRA,0.5,0.0
+299,a308efbb-8383-49c1-ae58-d323c783c649,Cambodian <ss> Filipino <ss> Pakistani,Cambodian<ss>Filipino<ss>Korean<ss>Pakistani<ss>Laotian,0.1% Cambodian<ss>0.1% Filipino<ss>0.1% Korean<ss>0.1% Pakistani<ss>0.1% Laotian<sv>Cambodian<ss>Filipino<ss>Korean<ss>Pakistani<ss>Laotian,0.6,0.0
+240,0890b283-e99f-4e72-9f01-22e4e2ab6cce,African American <ss> Native American,Asian<ss>Native American,Native American<ss>Asian<sv>Native American<ss>Asian,0.5,0.0
+82,0edbf486-7037-490f-8e37-a0ec47589ad1,Wokingham <ss> Wokingham <ss> Bracknell Forest <ss> Surrey,Portsmouth<ss>Thanet,Thanet<ss>Portsmouth<sv>Portsmouth<ss>Thanet,0.0,0.0
+134,acc6fd38-cbe8-4d71-8d3f-abdda57415fc,under the age of 18 <ss> 25 to 44 <ss> 45 to 64,under the age of 18<ss>18 to 24<ss>25 to 44<ss>45 to 64,under the age of 18<ss>from 18 to 24<ss>from 25 to 44<ss>from 45 to 64,0.75,0.0
+342,ca1f3891-bb6a-48e9-9eb7-1112da79169c,Vietnamese <ss> English,German<ss>Vietnamese,German<ss>Vietnamese<sv>German<ss>Vietnamese,0.5,0.0
+330,defe22ce-e081-435e-afa6-f9fb8932fba2,manufacturing <ss> mining <ss> construction,manufacturing<ss>construction,manufacturing<ss>construction<sv>manufacturing<ss>construction,0.67,0.0
+185,92797363-3e73-4170-930d-c4efdfd96dda,ASEAN <ss> Malaysia <ss> China,Indonesia<ss>Malaysia,Malaysia<ss>Indonesia<sv>Indonesia<ss>Malaysia,0.33,0.0
+122,084d9915-4af4-429e-9b30-002ebc62cc58,White <ss> Hispanic,White<ss>Asian,White<ss>Asian<sv>White<ss>Asian,0.5,0.0
+65,73cbcf82-9292-4c30-9751-8a242d6d1a29,Atlanta Braves <ss> Astros,Astros<ss>Braves,The Astros<ss>St. Louis<sv>The Astros<ss>St. Louis,0.83,0.0
+141,a6117d57-8f80-40f0-9a02-0bd4778509fa,11 <ss> 2 <ss> 2,1-yard<ss>21-yarder<ss>2-yarder,11-yard<ss>21-yarder<ss>2-yarder,0.44,0.0
+277,ddb04730-1656-4d56-bc4b-b3be9b469baf,31,31<ss>30,61<sv>31<ss>30,0.5,0.0
+193,215d7499-3945-4577-bd8e-e2022dce832a,25 and 29 years <ss> 25 and 29 years,20 and 24 years<ss>25 and 29 years,between 20 and 24 years<ss>between 25 and 29 years,0.5,0.0
+61,2728b800-74a3-49cd-9ffb-eb358cc801b0,Duke Magnus Birgersson started a war,Duke Magnus Birgersson<ss>started a war,started a war<sv>he started a war,0.57,0.0
+247,2762894d-d640-4566-ab4c-30d87340a5f0,Germans <ss> English <ss> Irish <ss> United States <ss> Italian,Germans<ss>English<ss>Irish<ss>United States,Germans<ss>English<ss>Irish<ss>United States<sv>Germans<ss>English<ss>Irish<ss>United States,0.8,0.0
+156,d39fb084-0964-4702-9bca-c23cf07607f3,Cuban soldiers,Ethiopian<ss>soldiers,Ethiopian<sv>Ethiopians,0.33,0.0
+266,5cc93449-2d02-4e19-842e-8fa2baceb3a3,Irish <ss> German,Scottish<ss>Canadian<ss>Irish,Scottish people<ss>Canadian<ss>Irish people<sv>Scottish<ss>Canadian<ss>Irish,0.33,0.0
+348,39fc7ab6-0041-4d8b-9121-ca234dbb6bb2,28 <ss> 37 yards <ss> 26-yard,28 and 37 yards<ss>26-yard,28<ss>37<ss>26-yard<sv>28 and 37 yards<ss>26-yard,0.89,0.0
+46,9b2cfd65-8042-4085-9d3e-876428cb5158,Tamil <ss> Hindi,Tamil<ss>Marathi<ss>Hindi,3.45<sv>Tamil<ss>Marathi<ss>Hindi,0.67,0.0
+151,a250133b-9b85-4c0b-8496-fb1fd74bb274,May <ss> May <ss> Cardinal Pierre des Près <ss> Fasanier <ss> Fasanier,May<ss>July<ss>September,May<ss>September<sv>May<ss>July<ss>September,0.2,0.0
+35,2a2e9790-30a1-4663-a2ea-76fac5e788e4,English <ss> Irish <ss> French <ss> German <ss> Italian,English<ss>Irish<ss>polish<ss>French,English<ss>Irish<ss>polish<ss>French<sv>English<ss>Irish<ss>polish<ss>French,0.6,0.0
+235,6f579268-78fa-4887-84ea-2ee4ba68f8cf,Rice,Craig<ss>Rice<ss>Tom Rathman,Craig<sv>Craig,0.33,0.0
+168,712ba53b-d57b-4149-827f-83f90ba1dfe0,Wieli ⁇  <ss> Pu ⁇ sk <ss> Kupise <ss> Biel <ss> Markowa,Wieliż<ss>Puńsk<ss>Kupise<ss>Biel<ss>Markowa,Wieliż<ss>Puńsk<ss>Kupise<sv>Wieliż<ss>Puńsk<ss>Kupise<ss>Biel<ss>Markowa,0.6,0.0
+93,6cbe18a5-09e1-4eed-a56a-9cab4b240bea,Khitans <ss> Minister Seo Hui,Khitan<ss>Goryeo,Khitans<ss>Korea<sv>Khitans<ss>Korea,0.5,0.0
+183,3f6187dd-4a87-4bcb-ad46-94e3b0b809f6,drain on state budgets,helped elect their bosses<ss>overly generous pension systems,overly generous pension systems<sv>they helped elect their bosses,0.0,0.0
+200,1179a508-77e1-4816-a30e-3020b86b8dc7,heart disease <ss> hypertension,diabetes<ss>cancer,diabetes<ss>obesity-related cancer<sv>obesity-related cancer<ss>diabetes,0.0,0.0
+243,5d72920d-ed5f-4470-9e6a-b0313f31095b,under age 18 <ss> 25 to 44 <ss> 45 to 64,under age 18<ss>45 to 64,under age 18<ss>45 to 64<sv>under age 18<ss>45 to 64,0.67,0.0
+81,99675a67-efdc-415d-bc9a-7273ee03cb22,South Bucks <ss> Canterbury <ss> Portsmouth <ss> Thanet,South Bucks<ss>Canterbury,South Bucks<ss>Canterbury<sv>South Bucks<ss>Canterbury,0.5,0.0
+29,3322e208-39e5-4980-a219-70da8663629a,Native American <ss> Pacific Islander,Pacific Islander<ss>Asian,Pacific Islander<ss>Asian<sv>Asian<ss>Pacific Islander,0.5,0.0
+177,2c1435a5-47b5-46e9-9269-fce36f88e79f,second <ss> third,first<ss>second<ss>third<ss>fourth,first<ss>second<ss>third<ss>fourth<sv>first<ss>second<ss>third<ss>fourth,0.5,0.0
+2,1ffa94c5-05b2-4e78-9a98-a0ac56fbc5cc,irish <ss> english <ss> irish,english<ss>irish,english<ss>irish<sv>english<ss>irish,0.67,0.0
+49,fbddf60a-31e4-4850-be04-44c4871079a3,second <ss> third,second<ss>fourth,second quarter<ss>fourth quarter<sv>the second<ss>the fourth<sv>2<sv>second<ss>fourth<sv>2,0.5,0.0
+106,f47d9f89-3aa3-4499-bb6b-baf626a27636,first <ss> third,first quarter<ss>second quarter,first<ss>second<ss>third<ss>fourth<sv>first quarter<ss>second quarter<sv>second quarter<sv>first<ss>second<ss>third<ss>fourth,0.5,0.0
+85,86969fad-0eda-4854-83e4-e08014809588,Bryant Johnson <ss> T. J. Duckett,Frank Gore<ss>T. J. Duckett,Frank Gore<ss>T. J. Duckett,0.5,0.0
+233,2927f0d9-dd04-4f19-9856-27789269cf40,Rice <ss> Tom Rathman,Craig<ss>Montana,Montana<ss>Craig<sv>Montana<ss>Craig,0.0,0.0
+13,44a430a0-b710-4e85-a3c2-6ea8e6f03a4d,under the age of 18 <ss> 18 to 24 <ss> 25 to 44 <ss> 45 to 64,under the age of 18<ss>25 to 44<ss>45 to 64,"under the age of 18<ss>25 to 44<ss>45 to 64<sv>21.8% under the age of 18, 13.1% from 18 to 24, 31.7% from 25 to 44, 20.1% from 45 to 64,",0.75,0.0
+161,12d2bbe2-263a-4e90-9035-ec44a1d8e9d9,Saints,New Orleans<ss>Saints,New Orleans<sv>New Orleans<sv>New Orleans<sv>New Orleans,0.5,0.0
+195,3c7497ea-78a3-486b-8d45-909f6c0072ab,25 and 29 years,65 years and over<ss>older than 60<ss>under age 18,between 45 and 49 years<sv>45 and 49 years,0.0,0.0
+26,706d1e15-617f-44f6-bb45-c6b659c607ea,battleship Espana running aground,Spanish military suffered losses even<ss>at sea; in March,the Spanish military suffering losses even at sea<sv>Spanish military suffering losses<sv>Spanish military suffering losses<sv>suffered losses even at sea,0.0,0.0
+215,d92cb0da-5627-46a1-9749-fdbfbf3dc025,Hindu,Muslim<ss>Tamil<ss>Telugu<ss>Urdu,"Muslim<sv>Hindu, 9.5%",0.0,0.0
+127,ce8cdee7-0004-4084-8531-978e670062c8,John <ss> his father,his son<ss>his father,his son John<ss>his father<sv>his son John<ss>his father,0.75,0.0
+205,d7c74a2c-4789-4087-8aa4-3b637acb285e,French fleet,Jerôme Maurand<ss>Polin,Jerôme Maurand<ss>Polin<sv>1544,0.0,0.0
+358,6bf6e431-0cbe-4394-ac5d-bd714184c85c,Germany <ss> Romania <ss> France <ss> Italy <ss> Czech Republic,Romania<ss>Slovakia<ss>France<ss>Italy,Italy<ss>Slovakia<ss>Romania<ss>France<sv>Romania<ss>Slovakia<ss>France<ss>Italy,0.6,0.0
+227,ffcc13f6-5522-4474-88a1-5358fd6eb74d,Muslim adherents <ss> Buddhists,Buddhists<ss>Hindus,Buddhists<ss>Hindus<sv>Buddhists<ss>Hindus,0.5,0.0
+86,c6e29c82-dcc6-4feb-b966-2fb5e51748b8,first quarter,"first quarter, the Texans delivered<ss>for a touchdown<ss>Colts responded<ss>completing a 2-yard TD pass",first<sv>1<sv>1,0.67,0.0
+210,a74c8faa-ef32-4779-91d0-3dc7d4b1e7a4,Hindi <ss> Kannada,Urdu<ss>Malayalam<ss>Hindi<ss>Kannada,Urdu<ss>Malayalam<ss>Hindi<ss>Kannada,0.5,0.0
+58,02d84db7-34ac-4c30-87e0-8769ec27083d,Battle of Mohács,in 1491<ss>signed the Peace of Pressburg,Peace of Pressburg<sv>Peace of Pressburg,0.33,0.0
+150,ba04b5c7-b0ea-45c4-81c6-e32db9d323d8,May <ss> May <ss> May,June<ss>August,June<ss>August<sv>June<ss>August,0.0,0.0
+246,87c0bfbb-f591-4674-8b4d-7bbbc6d592ca,Germans <ss> English <ss> Irish <ss> United States <ss> Italian,Hispanics<ss>Germans<ss>English<ss>Irish<ss>United States<ss>Italian,Hispanics<ss>Germans<ss>English<ss>Irish<ss>Italian<ss>United States,0.83,0.0
+265,0ffb346d-c23c-4018-b68b-84b39eb99677,Polish <ss> English,Norwegian<ss>Polish,Norwegian people<ss>Polish people<sv>Norwegian<ss>Polish,0.5,0.0
+139,1f3ddaf6-f003-418b-9fa4-d73f6032028a,Scholar Flotation <ss> Alan Sugar,Irving Scholar<ss>Paul Bobroff,Paul Bobroff<ss>Irving Scholar<sv>Irving Scholar<ss>Paul Bobroff<sv>Irving Scholar<ss>Paul Bobroff,0.25,0.0
+52,f4b97a88-acb5-453f-aa82-b2b1fe1e9a00,Jaél de Peigne <ss> Jaél de Peigne,"Catherine<ss>Jaél de Peigne,",Jaél de Peigne<sv>Catherine<ss>Jaél de Peigne,0.5,0.0
+55,abbbabbd-878b-427c-aed5-521c71ce15e0,Cecil <ss> Jaél de Peigne <ss> Jaél de Peigne,Catherine<ss>Jaél de Peigne,Catherine<ss>Jaél de Peigne<sv>Catherine<ss>Jaél de Peigne,0.33,0.0
+11,25ed59a4-e726-47c5-bdb7-862e8baf1bae,the Uqair conference,Uqair conference in 1922<ss>from 1923,trade blockade<sv>trade blockade,0.0,0.0
+352,da82ac4b-8c49-4332-a6aa-5c7fca99f61e,Eagles <ss> Minnesota Vikings,Philadelphia Eagles<ss>New England Patriots,the Philadelphia Eagles<ss>the New England Patriots<sv>Philadelphia Eagles<ss>New England Patriots,0.33,0.0
+276,08b77000-467e-4ba1-a810-ca205cb81f6c,60 and 69 years old,teenagers<ss>adult,adults<sv>teenagers<ss>adult,0.0,0.0
+328,6c74d56c-721e-49a4-85a8-a0da63071b73,1990 <ss> 1994 <ss> 1998,1990<ss>1994<ss>1998<ss>2002,1990<ss>1994<ss>1998<ss>2002<sv>1990<ss>1994<ss>1998<ss>2002,0.75,0.0
+95,721a35e3-573f-45e7-a1fc-93dde3ff31cc,2006-08 FA Cup <ss> 2012-13 FA Cup <ss> 2014-15 FA Cup,2007-08 FA Cup<ss>2013-14 FA Cup<ss>2014-15 FA Cup,2014-15<sv>3,0.58,0.0
+275,fa562801-16fd-4ac5-91cd-c2590286f835,10 and 19 <ss> 50 and 59,between 70 and 79<ss>80 and 89<ss>90 and older,70 and 79<ss>80 and 89<ss>90 and older<sv>70 and 79<ss>80 and 89<ss>90 and older,0.0,0.0
+159,36606e9e-faa1-4b6a-b821-5e1dd4a122f1,WR,QB<ss>WR,QB<ss>WR,0.5,0.0
+0,8b7f7ee7-a1cf-4656-bb92-fcc74acdae82,"1, 5 and 10 Pesos",100 Peso note<ss>500 Pesos note,500 Pesos note<sv>100<ss>500<sv>500 Pesos note,0.0,0.0
+365,b8d54267-0930-4b88-97de-d1d742167c28,1987 s <ss> 1992 s,1999<ss>1987<ss>1992,1999<ss>1987<ss>1992<sv>1999<ss>1987<ss>1992,0.44,0.0
+294,fea934fd-f8ad-4d33-b1bc-7744f8ef10fb,18 to 24,18 to 24<ss>25 and older<ss>between 25 and 64,under the age of 18<sv>18 to 24<ss>25 and older<ss>between 25 and 64,0.33,0.0
+21,b8c3ef46-22c0-4e80-beee-03e9dc27274a,Pacific Islander <ss> English,Polish<ss>French,Polish<ss>French<sv>Polish<ss>French,0.0,0.0
+314,de295075-849a-4746-870c-e318f9fc9aaf,Brett Favre <ss> Robert Brooks,Antonio Freeman<ss>Robert Brooks,Favre<ss>Antonio Freeman<ss>Robert Brooks<ss>Dorsey Levens<sv>Antonio Freeman<ss>Robert Brooks,0.5,0.0
+355,62bf9785-191f-4f88-8738-6a7d2e7e2184,Libya <ss> U.S.A.,Germany<ss>Spain<ss>Libya<ss>U.S.A,Germany<ss>Spain<ss>Libya<ss>U.S.A<sv>Germany<ss>Spain<ss>Libya<ss>U.S.A,0.5,0.0
+176,a41f2022-868f-4dba-9ac5-f5710c5865b8,Mark Sanchez,Ryan Fitzpatrick<ss>Mark Sanchez,Mark Sanchez<ss>Ryan Fitzpatrick<sv>Mark Sanchez<ss>Ryan Fitzpatrick,0.5,0.0
+202,ab248bfc-5853-464d-a561-fc430d40275e,heart disease <ss> hypertension,diabetes<ss>hypertension,"diabetes, hypertension<sv>diabetes<ss>hypertension",0.5,0.0
+229,16662b13-8d04-4171-a0a9-0087fa2cc657,Muslim <ss> Buddhists,Buddhists<ss>Muslims,Muslims<ss>Buddhists<sv>Buddhists<ss>Muslims,0.5,0.0
