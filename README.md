@@ -4,7 +4,7 @@
 **Advisor**: Daniel Cer<sup>a, b</sup>   
 <sup>a</sup>University of California Berkeley, <sup>b</sup>Google Research   
 
-*NT5?! Training T5 to Perform Numerical Reasoning* is a NLP research on NRoT (numerical reasoning over text) using T5. Latest version of the paper [can be reviewed on ArXiv](https://arxiv.org/abs/2104.07307). All source codes and two fully trained NT5 models (**RC Experiment 1**, our best performing model, and **Validation Experiment 2**, our second best performing model) are included in the repository.  
+*NT5?! Training T5 to Perform Numerical Reasoning* is a NLP research project on training T5 to perform NRoT (numerical reasoning over text). Latest version of the paper [can be reviewed on ArXiv](https://arxiv.org/abs/2104.07307). All source codes and two fully trained NT5 models (**RC Experiment 1**, our best performing model, and **Validation Experiment 2**, our second best performing model) are included in the repository.  
 
 ## Abstract
 
