@@ -62,7 +62,7 @@ At the time of research, BERT with self-attention is becoming increasingly popul
 
 ## Training Methodology
 
-The parsimony of T5 allows us to **focus on refining our training methods** instead of the model architecture. Our training involves a series of experiments using both sequential and multitask trainings. The full schedule is summarized by the diagram below and a detailed description can be found in the paper.   
+The parsimony of T5 allows us to **focus on refining our training methods** instead of the model architecture. Our training involves a series of experiments using both sequential and multitask trainings. The full schedule is summarized by the diagram below and a detailed description can be found in the paper. Our best model is **RC1**, the model pertained on the two synthetic datasets and SQuAD, and then fine-tuned on DROP and DROP Class. 
 
 <p align="center"><img src="https://www.dropbox.com/s/ujq8dc229nl79bh/schedule.jpeg?raw=1" width="800" /></p>
 
@@ -70,7 +70,7 @@ The parsimony of T5 allows us to **focus on refining our training methods** inst
 
 ## Results
 
-Our model using T5-Small (the smallest scale of T5) achieves an adjusted F1 performance of **70.83**. This is a considerable improvement over the performance achieved by the model proposed in the original DROP paper (47.01). Our model also closes in on GenBERT (72.4), a custom BERT-Base model pre-trained on our same synthetic data. In addition, our model is a lot more parsimonious: GenBERT's architecture includes 5 additional feedforward neural networks on top of the BERT-Base encoder and comes with **significantly more weights** (110 million from BERT-Base + additional weights from the 5 neural networks vs. 60 million from our T5-Small).    
+Our best model, **RC1**, using T5-Small (the smallest scale of T5) achieves an adjusted F1 performance of **70.83**. This is a considerable improvement over the performance achieved by the model proposed in the original DROP paper (47.01). Our model also closes in on GenBERT (72.4), a custom BERT-Base model pre-trained on our same synthetic data. In addition, our model is a lot more parsimonious: GenBERT's architecture includes 5 additional feedforward neural networks on top of the BERT-Base encoder and comes with **significantly more weights** (110 million from BERT-Base + additional weights from the 5 neural networks vs. 60 million from our T5-Small).    
 
 ## Repository 
 - [`./nt5_multitask_training.ipynb`](./nt5_multitask_training.ipynb) is the notebook with all source codes for modeling and training.
