@@ -32,13 +32,13 @@ A total of **6 datasets** are explored during training. The splits and sizes for
 
   <p align="center"><img src="https://www.dropbox.com/s/w01jfmt0s15zco5/datasets.png?raw=1" width="650" /></p>
 
-  - **DROP** (Discrete Reasoning Over Paragraphs), introduced by AllenNLP in 2019, includes 96k examples in a "Q&A with context" format similar to SQuAD. The benchmark includes four distinct types of questions, all of which require NRoT skills to solve. **DROP Class** is exactly the same as DROP, but with the labels changed to the four classes of questions found in DROP : numeric, date, single span, and multiple spans. The goal of DROP Class is to help T5 learn to classify the four types of questions that require different skillsets to solve in DROP.
+**DROP** (Discrete Reasoning Over Paragraphs), introduced by AllenNLP in 2019, includes 96k examples in a "Q&A with context" format similar to SQuAD. The benchmark includes four distinct types of questions, all of which require NRoT skills to solve. **DROP Class** is exactly the same as DROP, but with the labels changed to the four classes of questions found in DROP : numeric, date, single span, and multiple spans. The goal of DROP Class is to help T5 learn to classify the four types of questions that require different skillsets to solve in DROP.
 
-  - **Synthetic Data** consists of two datasets: The Numeric dataset (NUM) with near 1M synthetically generated questions on seven types of numerical skills (e.g. addition, sorting, comparison, etc.). The Textual dataset (TXT) builds on NUM, and includes 2M+ synthetically generated examples in formats similar to DROP's Q&As. 
+**Synthetic Data** consists of two datasets: The Numeric dataset (NUM) with near 1M synthetically generated questions on seven types of numerical skills (e.g. addition, sorting, comparison, etc.). The Textual dataset (TXT) builds on NUM, and includes 2M+ synthetically generated examples in formats similar to DROP's Q&As. 
 
-  - **SQuAD v1.1**, a benchmark dataset by Stanford with an emphasis on RC through Q&As, is included in training to strengthen the model's general RC capability. 
+**SQuAD v1.1**, a benchmark dataset by Stanford with an emphasis on RC through Q&As, is included in training to strengthen the model's general RC capability. 
 
-  - Unfortunately, we are unable to complete our multitask training with **C4EN** (used a part of T5's pre-training) due to limited resources, but we hypothesize that the inclusion of which would lead to an improved performance.  
+Unfortunately, we are unable to complete our multitask training with **C4EN** (used a part of T5's pre-training) due to limited resources, but we hypothesize that the inclusion of which would lead to an improved performance.  
 
 ## Evaluation
 
@@ -64,7 +64,7 @@ At the time of research, BERT with self-attention is becoming increasingly popul
 
 The parsimony of T5 allows us to **focus on refining our training methods** instead of the model architecture. Our training involves a series of experiments using both sequential and multitask trainings. The full schedule is summarized by the diagram below and a detailed description can be found in the paper. Our best model is **RC1**, the model pertained on the two synthetic datasets and SQuAD, and then fine-tuned on DROP and DROP Class. 
 
-<p align="center"><img src="https://www.dropbox.com/s/ujq8dc229nl79bh/schedule.jpeg?raw=1" width="800" /></p>
+<p align="center"><img src="https://www.dropbox.com/s/ujq8dc229nl79bh/schedule.jpeg?raw=1" width="750" /></p>
 
 
 
